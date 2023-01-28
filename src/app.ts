@@ -26,7 +26,8 @@ export class App {
      *                      editingData, etc.
      * 
      */
-    async createXRScene() {
+    async createXRScene(canvasID: string,
+        authoringData: {[dataType: string]: {[key: string]: any}} = {}) {
         const scene = new Scene(this.engine);
         scene.createDefaultCameraOrLight();
 
