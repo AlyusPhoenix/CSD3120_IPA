@@ -13,4 +13,4 @@ npm run build
 
 npm run serve
 
-Open your browser and open this link: http://localhost:1234/
+Open your browser and open this link: http://localhost:3050/
