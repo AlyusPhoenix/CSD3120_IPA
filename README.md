@@ -7,18 +7,30 @@ Zhou Wanxuan
 
 Steps
 
-Install dependencies. Open wsl in your folder directory and run the following command: npm install
+Use Unity Hub to open up this folder.
 
-To build and run the project, run the following commands:
+Go to File > Build Settings and set the Platform to WebGL and click on switch platform. 
 
-npm run build
+In build settings, go to player settings and set the resolution to WebXR2020. 
 
-npm run serve
+If there is no such resolution, go to Window > WebXR > Copy WebGL Templates.
 
-Open your browser and open this link: http://localhost:3050/
+After that, go back to build settings and select 
+Samples/WebXR Interactions/0.16.3-preview/Sample Scene/Scenes/Desert.unity.
+
+Click Build And Run.
+
+Alternatively, go to this link:
 
 
 
-The video is in the assets folder.
 
-Go to assets/chemistry/videos to access the webm file.
+Assets
+
+Unity was used to create this app, with additional packages from tilia and unity-webxr-export.
+The scene was created from the sample scene in unity-webxr-export.
+https://assetstore.unity.com/packages/tools/utilities/vrtk-v4-tilia-package-importer-214936
+https://github.com/De-Panther/unity-webxr-export
+
+School assets were taken from:
+https://assetstore.unity.com/packages/3d/environments/school-assets-146253

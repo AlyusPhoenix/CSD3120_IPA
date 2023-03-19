@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebXRAssembly", "WebXRAssembly.csproj", "{6E2AA64D-C1AA-EFB5-7ED3-94F561A3F58B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRTK.Tilia.Package.Importer.Editor", "VRTK.Tilia.Package.Importer.Editor.csproj", "{AD62FC7E-C3C8-F215-6027-14A8DEE42E37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E2AA64D-C1AA-EFB5-7ED3-94F561A3F58B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E2AA64D-C1AA-EFB5-7ED3-94F561A3F58B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E2AA64D-C1AA-EFB5-7ED3-94F561A3F58B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E2AA64D-C1AA-EFB5-7ED3-94F561A3F58B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD62FC7E-C3C8-F215-6027-14A8DEE42E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD62FC7E-C3C8-F215-6027-14A8DEE42E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD62FC7E-C3C8-F215-6027-14A8DEE42E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD62FC7E-C3C8-F215-6027-14A8DEE42E37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
