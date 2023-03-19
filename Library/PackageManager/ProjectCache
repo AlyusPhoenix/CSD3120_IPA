@@ -6,8 +6,8 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638147589919510844
-    m_Hash: 2875722174
+      ticks: 638148258702946706
+    m_Hash: 1037350908
   m_LockFileStatus:
     m_FilePath: C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual
       Reality/hello-xr/Packages/packages-lock.json
@@ -15,8 +15,8 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638147589919610824
-    m_Hash: 3957597906
+      ticks: 638148258703076679
+    m_Hash: 1331419038
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -2303,6 +2303,493 @@ m_ResolvedPackages:
   repository:
     type: git
     url: git+ssh://git@github.com/ExtendRealityLtd/Tilia.Interactions.Controllables.Unity.git
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+- packageId: io.extendreality.tilia.interactions.snapzone.unity@2.1.44
+  testable: 0
+  isDirectDependency: 1
+  version: 2.1.44
+  source: 1
+  resolvedPath: C:\Users\wanxu\Documents\SIT-DigiPen\Year 3 Sem 2\CSD3120 Virtual
+    Reality\hello-xr\Library\PackageCache\io.extendreality.tilia.interactions.snapzone.unity@2.1.44
+  assetPath: Packages/io.extendreality.tilia.interactions.snapzone.unity
+  name: io.extendreality.tilia.interactions.snapzone.unity
+  displayName: Tilia Interactions SnapZone Unity
+  author:
+    name: Extend Reality Ltd
+    email: hello@extendreality.io
+    url: https://github.com/ExtendRealityLtd
+  category: 
+  type: 
+  description: A spatial zone in which an interactable object can be snapped into
+    the designated area for the Unity software.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    - 1.0.1
+    - 1.0.2
+    - 1.0.3
+    - 1.0.4
+    - 1.0.5
+    - 1.0.6
+    - 1.0.7
+    - 1.0.8
+    - 1.0.9
+    - 1.0.10
+    - 1.0.11
+    - 1.0.12
+    - 1.0.13
+    - 1.0.14
+    - 1.0.15
+    - 1.0.16
+    - 1.0.17
+    - 1.0.18
+    - 1.0.19
+    - 1.0.20
+    - 1.0.21
+    - 1.0.22
+    - 1.0.23
+    - 1.0.24
+    - 1.0.25
+    - 1.0.26
+    - 1.1.0
+    - 1.1.1
+    - 1.1.2
+    - 1.1.3
+    - 1.1.4
+    - 1.1.5
+    - 1.1.6
+    - 1.1.7
+    - 1.1.8
+    - 1.1.9
+    - 1.1.10
+    - 1.1.11
+    - 1.1.12
+    - 1.1.13
+    - 1.1.14
+    - 1.1.15
+    - 1.1.16
+    - 1.1.17
+    - 1.1.18
+    - 1.1.19
+    - 1.1.20
+    - 1.1.21
+    - 1.1.22
+    - 1.1.23
+    - 1.1.24
+    - 1.1.25
+    - 1.1.26
+    - 1.1.27
+    - 1.1.28
+    - 1.1.29
+    - 1.1.30
+    - 1.1.31
+    - 1.1.32
+    - 1.1.33
+    - 1.1.34
+    - 1.1.35
+    - 1.1.36
+    - 1.1.37
+    - 1.1.38
+    - 1.1.39
+    - 1.1.40
+    - 1.1.41
+    - 1.1.42
+    - 1.1.43
+    - 1.1.44
+    - 1.1.45
+    - 1.1.46
+    - 1.1.47
+    - 1.1.48
+    - 1.1.49
+    - 1.1.50
+    - 1.1.51
+    - 1.1.52
+    - 1.1.53
+    - 1.1.54
+    - 1.1.55
+    - 1.1.56
+    - 1.1.57
+    - 1.1.58
+    - 1.1.59
+    - 1.1.60
+    - 1.2.0
+    - 1.2.1
+    - 1.2.2
+    - 1.2.3
+    - 1.3.0
+    - 1.3.1
+    - 1.3.2
+    - 1.3.3
+    - 1.3.4
+    - 1.3.5
+    - 1.3.6
+    - 1.3.7
+    - 1.3.8
+    - 1.4.0
+    - 1.4.1
+    - 1.4.2
+    - 1.4.3
+    - 1.4.4
+    - 1.4.5
+    - 1.5.0
+    - 1.5.1
+    - 1.5.2
+    - 1.5.3
+    - 1.5.4
+    - 1.5.5
+    - 1.5.6
+    - 1.5.7
+    - 1.5.8
+    - 1.5.9
+    - 1.5.10
+    - 1.5.11
+    - 1.5.12
+    - 1.5.13
+    - 1.5.14
+    - 1.5.15
+    - 1.5.16
+    - 1.5.17
+    - 1.5.18
+    - 1.5.19
+    - 1.5.20
+    - 1.5.21
+    - 1.5.22
+    - 1.5.23
+    - 1.5.24
+    - 1.5.25
+    - 1.5.26
+    - 1.5.27
+    - 1.5.28
+    - 1.5.29
+    - 1.5.30
+    - 1.5.31
+    - 1.5.32
+    - 1.5.33
+    - 1.5.34
+    - 1.5.35
+    - 1.5.36
+    - 1.5.37
+    - 1.5.38
+    - 1.5.39
+    - 1.5.40
+    - 1.6.0
+    - 1.6.1
+    - 1.6.2
+    - 1.6.3
+    - 1.6.4
+    - 1.6.5
+    - 1.7.0
+    - 1.7.1
+    - 1.7.2
+    - 2.0.0
+    - 2.0.1
+    - 2.0.2
+    - 2.0.3
+    - 2.0.4
+    - 2.0.5
+    - 2.0.6
+    - 2.1.0
+    - 2.1.1
+    - 2.1.2
+    - 2.1.3
+    - 2.1.4
+    - 2.1.5
+    - 2.1.6
+    - 2.1.7
+    - 2.1.8
+    - 2.1.9
+    - 2.1.10
+    - 2.1.11
+    - 2.1.12
+    - 2.1.13
+    - 2.1.14
+    - 2.1.15
+    - 2.1.16
+    - 2.1.17
+    - 2.1.18
+    - 2.1.19
+    - 2.1.20
+    - 2.1.21
+    - 2.1.22
+    - 2.1.23
+    - 2.1.24
+    - 2.1.25
+    - 2.1.26
+    - 2.1.27
+    - 2.1.28
+    - 2.1.29
+    - 2.1.30
+    - 2.1.31
+    - 2.1.32
+    - 2.1.33
+    - 2.1.34
+    - 2.1.35
+    - 2.1.36
+    - 2.1.37
+    - 2.1.38
+    - 2.1.39
+    - 2.1.40
+    - 2.1.41
+    - 2.1.42
+    - 2.1.43
+    - 2.1.44
+    compatible:
+    - 1.0.0
+    - 1.0.1
+    - 1.0.2
+    - 1.0.3
+    - 1.0.4
+    - 1.0.5
+    - 1.0.6
+    - 1.0.7
+    - 1.0.8
+    - 1.0.9
+    - 1.0.10
+    - 1.0.11
+    - 1.0.12
+    - 1.0.13
+    - 1.0.14
+    - 1.0.15
+    - 1.0.16
+    - 1.0.17
+    - 1.0.18
+    - 1.0.19
+    - 1.0.20
+    - 1.0.21
+    - 1.0.22
+    - 1.0.23
+    - 1.0.24
+    - 1.0.25
+    - 1.0.26
+    - 1.1.0
+    - 1.1.1
+    - 1.1.2
+    - 1.1.3
+    - 1.1.4
+    - 1.1.5
+    - 1.1.6
+    - 1.1.7
+    - 1.1.8
+    - 1.1.9
+    - 1.1.10
+    - 1.1.11
+    - 1.1.12
+    - 1.1.13
+    - 1.1.14
+    - 1.1.15
+    - 1.1.16
+    - 1.1.17
+    - 1.1.18
+    - 1.1.19
+    - 1.1.20
+    - 1.1.21
+    - 1.1.22
+    - 1.1.23
+    - 1.1.24
+    - 1.1.25
+    - 1.1.26
+    - 1.1.27
+    - 1.1.28
+    - 1.1.29
+    - 1.1.30
+    - 1.1.31
+    - 1.1.32
+    - 1.1.33
+    - 1.1.34
+    - 1.1.35
+    - 1.1.36
+    - 1.1.37
+    - 1.1.38
+    - 1.1.39
+    - 1.1.40
+    - 1.1.41
+    - 1.1.42
+    - 1.1.43
+    - 1.1.44
+    - 1.1.45
+    - 1.1.46
+    - 1.1.47
+    - 1.1.48
+    - 1.1.49
+    - 1.1.50
+    - 1.1.51
+    - 1.1.52
+    - 1.1.53
+    - 1.1.54
+    - 1.1.55
+    - 1.1.56
+    - 1.1.57
+    - 1.1.58
+    - 1.1.59
+    - 1.1.60
+    - 1.2.0
+    - 1.2.1
+    - 1.2.2
+    - 1.2.3
+    - 1.3.0
+    - 1.3.1
+    - 1.3.2
+    - 1.3.3
+    - 1.3.4
+    - 1.3.5
+    - 1.3.6
+    - 1.3.7
+    - 1.3.8
+    - 1.4.0
+    - 1.4.1
+    - 1.4.2
+    - 1.4.3
+    - 1.4.4
+    - 1.4.5
+    - 1.5.0
+    - 1.5.1
+    - 1.5.2
+    - 1.5.3
+    - 1.5.4
+    - 1.5.5
+    - 1.5.6
+    - 1.5.7
+    - 1.5.8
+    - 1.5.9
+    - 1.5.10
+    - 1.5.11
+    - 1.5.12
+    - 1.5.13
+    - 1.5.14
+    - 1.5.15
+    - 1.5.16
+    - 1.5.17
+    - 1.5.18
+    - 1.5.19
+    - 1.5.20
+    - 1.5.21
+    - 1.5.22
+    - 1.5.23
+    - 1.5.24
+    - 1.5.25
+    - 1.5.26
+    - 1.5.27
+    - 1.5.28
+    - 1.5.29
+    - 1.5.30
+    - 1.5.31
+    - 1.5.32
+    - 1.5.33
+    - 1.5.34
+    - 1.5.35
+    - 1.5.36
+    - 1.5.37
+    - 1.5.38
+    - 1.5.39
+    - 1.5.40
+    - 1.6.0
+    - 1.6.1
+    - 1.6.2
+    - 1.6.3
+    - 1.6.4
+    - 1.6.5
+    - 1.7.0
+    - 1.7.1
+    - 1.7.2
+    - 2.0.0
+    - 2.0.1
+    - 2.0.2
+    - 2.0.3
+    - 2.0.4
+    - 2.0.5
+    - 2.0.6
+    - 2.1.0
+    - 2.1.1
+    - 2.1.2
+    - 2.1.3
+    - 2.1.4
+    - 2.1.5
+    - 2.1.6
+    - 2.1.7
+    - 2.1.8
+    - 2.1.9
+    - 2.1.10
+    - 2.1.11
+    - 2.1.12
+    - 2.1.13
+    - 2.1.14
+    - 2.1.15
+    - 2.1.16
+    - 2.1.17
+    - 2.1.18
+    - 2.1.19
+    - 2.1.20
+    - 2.1.21
+    - 2.1.22
+    - 2.1.23
+    - 2.1.24
+    - 2.1.25
+    - 2.1.26
+    - 2.1.27
+    - 2.1.28
+    - 2.1.29
+    - 2.1.30
+    - 2.1.31
+    - 2.1.32
+    - 2.1.33
+    - 2.1.34
+    - 2.1.35
+    - 2.1.36
+    - 2.1.37
+    - 2.1.38
+    - 2.1.39
+    - 2.1.40
+    - 2.1.41
+    - 2.1.42
+    - 2.1.43
+    - 2.1.44
+    verified: 
+  dependencies:
+  - name: io.extendreality.zinnia.unity
+    version: 2.7.2
+  - name: io.extendreality.tilia.utilities.shaders.unity
+    version: 1.3.1
+  - name: io.extendreality.tilia.mutators.objectfollower.unity
+    version: 2.0.10
+  - name: io.extendreality.tilia.interactions.interactables.unity
+    version: 2.11.4
+  resolvedDependencies:
+  - name: io.extendreality.zinnia.unity
+    version: 2.7.2
+  - name: io.extendreality.tilia.utilities.shaders.unity
+    version: 1.3.1
+  - name: io.extendreality.tilia.mutators.objectfollower.unity
+    version: 2.0.10
+  - name: io.extendreality.tilia.interactions.interactables.unity
+    version: 2.11.4
+  keywords:
+  - interactions
+  - snapzone
+  - snap
+  - dropzone
+  - socket
+  registry:
+    id: scoped:npmjs
+    name: npmjs
+    url: https://registry.npmjs.org
+    scopes:
+    - io.extendreality
+    isDefault: 0
+    capabilities: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638147491784740000
+  documentationUrl: https://github.com/ExtendRealityLtd/Tilia.Interactions.SnapZone.Unity/tree/master/Documentation
+  hasRepository: 1
+  repository:
+    type: git
+    url: git+ssh://git@github.com/ExtendRealityLtd/Tilia.Interactions.SnapZone.Unity.git
     revision: 
     path: 
   unityLifecycle:
@@ -5050,6 +5537,185 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
+- packageId: io.extendreality.tilia.mutators.objectfollower.unity@2.0.10
+  testable: 0
+  isDirectDependency: 0
+  version: 2.0.10
+  source: 1
+  resolvedPath: C:\Users\wanxu\Documents\SIT-DigiPen\Year 3 Sem 2\CSD3120 Virtual
+    Reality\hello-xr\Library\PackageCache\io.extendreality.tilia.mutators.objectfollower.unity@2.0.10
+  assetPath: Packages/io.extendreality.tilia.mutators.objectfollower.unity
+  name: io.extendreality.tilia.mutators.objectfollower.unity
+  displayName: Tilia Mutators ObjectFollower Unity
+  author:
+    name: Extend Reality Ltd
+    email: hello@extendreality.io
+    url: https://github.com/ExtendRealityLtd
+  category: 
+  type: 
+  description: A mechanism to make a target GameObject follow a source GameObject
+    in the scene for the Unity software.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    - 1.0.1
+    - 1.0.2
+    - 1.0.3
+    - 1.0.4
+    - 1.0.5
+    - 1.0.6
+    - 1.0.7
+    - 1.0.8
+    - 1.0.9
+    - 1.0.10
+    - 1.0.11
+    - 1.0.12
+    - 1.0.13
+    - 1.1.0
+    - 1.1.1
+    - 1.1.2
+    - 1.1.3
+    - 1.1.4
+    - 1.1.5
+    - 1.1.6
+    - 1.1.7
+    - 1.1.8
+    - 1.1.9
+    - 1.1.10
+    - 1.1.11
+    - 1.1.12
+    - 1.1.13
+    - 1.1.14
+    - 1.1.15
+    - 1.1.16
+    - 1.1.17
+    - 1.2.0
+    - 1.2.1
+    - 1.2.2
+    - 1.2.3
+    - 1.2.4
+    - 1.2.5
+    - 1.2.6
+    - 1.2.7
+    - 1.2.8
+    - 1.2.9
+    - 1.2.10
+    - 1.2.11
+    - 1.2.12
+    - 1.2.13
+    - 1.2.14
+    - 1.2.15
+    - 1.3.0
+    - 1.3.1
+    - 1.3.2
+    - 2.0.0
+    - 2.0.1
+    - 2.0.2
+    - 2.0.3
+    - 2.0.4
+    - 2.0.5
+    - 2.0.6
+    - 2.0.7
+    - 2.0.8
+    - 2.0.9
+    - 2.0.10
+    compatible:
+    - 1.0.0
+    - 1.0.1
+    - 1.0.2
+    - 1.0.3
+    - 1.0.4
+    - 1.0.5
+    - 1.0.6
+    - 1.0.7
+    - 1.0.8
+    - 1.0.9
+    - 1.0.10
+    - 1.0.11
+    - 1.0.12
+    - 1.0.13
+    - 1.1.0
+    - 1.1.1
+    - 1.1.2
+    - 1.1.3
+    - 1.1.4
+    - 1.1.5
+    - 1.1.6
+    - 1.1.7
+    - 1.1.8
+    - 1.1.9
+    - 1.1.10
+    - 1.1.11
+    - 1.1.12
+    - 1.1.13
+    - 1.1.14
+    - 1.1.15
+    - 1.1.16
+    - 1.1.17
+    - 1.2.0
+    - 1.2.1
+    - 1.2.2
+    - 1.2.3
+    - 1.2.4
+    - 1.2.5
+    - 1.2.6
+    - 1.2.7
+    - 1.2.8
+    - 1.2.9
+    - 1.2.10
+    - 1.2.11
+    - 1.2.12
+    - 1.2.13
+    - 1.2.14
+    - 1.2.15
+    - 1.3.0
+    - 1.3.1
+    - 1.3.2
+    - 2.0.0
+    - 2.0.1
+    - 2.0.2
+    - 2.0.3
+    - 2.0.4
+    - 2.0.5
+    - 2.0.6
+    - 2.0.7
+    - 2.0.8
+    - 2.0.9
+    - 2.0.10
+    verified: 
+  dependencies:
+  - name: io.extendreality.zinnia.unity
+    version: 2.7.2
+  resolvedDependencies:
+  - name: io.extendreality.zinnia.unity
+    version: 2.7.2
+  keywords:
+  - mutator
+  - follower
+  - object
+  registry:
+    id: scoped:npmjs
+    name: npmjs
+    url: https://registry.npmjs.org
+    scopes:
+    - io.extendreality
+    isDefault: 0
+    capabilities: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638145645316100000
+  documentationUrl: https://github.com/ExtendRealityLtd/Tilia.Mutators.ObjectFollower.Unity/tree/master/Documentation
+  hasRepository: 1
+  repository:
+    type: git
+    url: git+ssh://git@github.com/ExtendRealityLtd/Tilia.Mutators.ObjectFollower.Unity.git
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
 - packageId: io.extendreality.tilia.interactions.interactables.unity@2.11.4
   testable: 0
   isDirectDependency: 1
@@ -5318,185 +5984,6 @@ m_ResolvedPackages:
   repository:
     type: git
     url: git+ssh://git@github.com/ExtendRealityLtd/Tilia.Interactions.Interactables.Unity.git
-    revision: 
-    path: 
-  unityLifecycle:
-    version: 
-    nextVersion: 
-- packageId: io.extendreality.tilia.mutators.objectfollower.unity@2.0.10
-  testable: 0
-  isDirectDependency: 0
-  version: 2.0.10
-  source: 1
-  resolvedPath: C:\Users\wanxu\Documents\SIT-DigiPen\Year 3 Sem 2\CSD3120 Virtual
-    Reality\hello-xr\Library\PackageCache\io.extendreality.tilia.mutators.objectfollower.unity@2.0.10
-  assetPath: Packages/io.extendreality.tilia.mutators.objectfollower.unity
-  name: io.extendreality.tilia.mutators.objectfollower.unity
-  displayName: Tilia Mutators ObjectFollower Unity
-  author:
-    name: Extend Reality Ltd
-    email: hello@extendreality.io
-    url: https://github.com/ExtendRealityLtd
-  category: 
-  type: 
-  description: A mechanism to make a target GameObject follow a source GameObject
-    in the scene for the Unity software.
-  status: 4
-  errors: []
-  versions:
-    all:
-    - 1.0.0
-    - 1.0.1
-    - 1.0.2
-    - 1.0.3
-    - 1.0.4
-    - 1.0.5
-    - 1.0.6
-    - 1.0.7
-    - 1.0.8
-    - 1.0.9
-    - 1.0.10
-    - 1.0.11
-    - 1.0.12
-    - 1.0.13
-    - 1.1.0
-    - 1.1.1
-    - 1.1.2
-    - 1.1.3
-    - 1.1.4
-    - 1.1.5
-    - 1.1.6
-    - 1.1.7
-    - 1.1.8
-    - 1.1.9
-    - 1.1.10
-    - 1.1.11
-    - 1.1.12
-    - 1.1.13
-    - 1.1.14
-    - 1.1.15
-    - 1.1.16
-    - 1.1.17
-    - 1.2.0
-    - 1.2.1
-    - 1.2.2
-    - 1.2.3
-    - 1.2.4
-    - 1.2.5
-    - 1.2.6
-    - 1.2.7
-    - 1.2.8
-    - 1.2.9
-    - 1.2.10
-    - 1.2.11
-    - 1.2.12
-    - 1.2.13
-    - 1.2.14
-    - 1.2.15
-    - 1.3.0
-    - 1.3.1
-    - 1.3.2
-    - 2.0.0
-    - 2.0.1
-    - 2.0.2
-    - 2.0.3
-    - 2.0.4
-    - 2.0.5
-    - 2.0.6
-    - 2.0.7
-    - 2.0.8
-    - 2.0.9
-    - 2.0.10
-    compatible:
-    - 1.0.0
-    - 1.0.1
-    - 1.0.2
-    - 1.0.3
-    - 1.0.4
-    - 1.0.5
-    - 1.0.6
-    - 1.0.7
-    - 1.0.8
-    - 1.0.9
-    - 1.0.10
-    - 1.0.11
-    - 1.0.12
-    - 1.0.13
-    - 1.1.0
-    - 1.1.1
-    - 1.1.2
-    - 1.1.3
-    - 1.1.4
-    - 1.1.5
-    - 1.1.6
-    - 1.1.7
-    - 1.1.8
-    - 1.1.9
-    - 1.1.10
-    - 1.1.11
-    - 1.1.12
-    - 1.1.13
-    - 1.1.14
-    - 1.1.15
-    - 1.1.16
-    - 1.1.17
-    - 1.2.0
-    - 1.2.1
-    - 1.2.2
-    - 1.2.3
-    - 1.2.4
-    - 1.2.5
-    - 1.2.6
-    - 1.2.7
-    - 1.2.8
-    - 1.2.9
-    - 1.2.10
-    - 1.2.11
-    - 1.2.12
-    - 1.2.13
-    - 1.2.14
-    - 1.2.15
-    - 1.3.0
-    - 1.3.1
-    - 1.3.2
-    - 2.0.0
-    - 2.0.1
-    - 2.0.2
-    - 2.0.3
-    - 2.0.4
-    - 2.0.5
-    - 2.0.6
-    - 2.0.7
-    - 2.0.8
-    - 2.0.9
-    - 2.0.10
-    verified: 
-  dependencies:
-  - name: io.extendreality.zinnia.unity
-    version: 2.7.2
-  resolvedDependencies:
-  - name: io.extendreality.zinnia.unity
-    version: 2.7.2
-  keywords:
-  - mutator
-  - follower
-  - object
-  registry:
-    id: scoped:npmjs
-    name: npmjs
-    url: https://registry.npmjs.org
-    scopes:
-    - io.extendreality
-    isDefault: 0
-    capabilities: 0
-  hideInEditor: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 638145645316100000
-  documentationUrl: https://github.com/ExtendRealityLtd/Tilia.Mutators.ObjectFollower.Unity/tree/master/Documentation
-  hasRepository: 1
-  repository:
-    type: git
-    url: git+ssh://git@github.com/ExtendRealityLtd/Tilia.Mutators.ObjectFollower.Unity.git
     revision: 
     path: 
   unityLifecycle:

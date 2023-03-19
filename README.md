@@ -7,18 +7,15 @@ Zhou Wanxuan
 
 Steps
 
-Install dependencies. Open wsl in your folder directory and run the following command: npm install
+Use Unity Hub to open up this folder.
 
-To build and run the project, run the following commands:
+Go to File > Build Settings and set the Platform to WebGL. 
 
-npm run build
+In build settings, go to player settings and set the resolution to WebXR2020. 
 
-npm run serve
+If there is no such resolution, go to Window > WebXR > Copy WebGL Templates.
 
-Open your browser and open this link: http://localhost:3050/
+After that, go back to build settings and select 
+Samples/WebXR Interactions/0.16.3-preview/Sample Scene/Scenes/Desert.unity.
 
-
-
-The video is in the assets folder.
-
-Go to assets/chemistry/videos to access the webm file.
+Click Build And Run.

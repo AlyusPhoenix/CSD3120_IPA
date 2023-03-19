@@ -28,6 +28,7 @@ IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_Tilia_Indicators_ObjectPointers_Unit
 IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_Tilia_Input_CombinedActions_Unity_Runtime_CodeGenModule;
 IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_Tilia_Interactions_Controllables_Unity_Runtime_CodeGenModule;
 IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_Tilia_Interactions_Interactables_Unity_Runtime_CodeGenModule;
+IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_Tilia_Interactions_SnapZone_Unity_Runtime_CodeGenModule;
 IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_Tilia_Locomotors_AxisMove_Unity_Runtime_CodeGenModule;
 IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_Tilia_Locomotors_Teleporter_Unity_Runtime_CodeGenModule;
 IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_UnityEngine_AIModule_CodeGenModule;
@@ -57,6 +58,7 @@ IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_UnityEngine_UI_CodeGenModule;
 IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_UnityEngine_VRModule_CodeGenModule;
 IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_UnityEngine_XRModule_CodeGenModule;
 IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_Unity_Subsystem_Registration_CodeGenModule;
+IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_Unity_TextMeshPro_CodeGenModule;
 IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_Unity_XR_Management_CodeGenModule;
 IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_WebXRAssembly_CodeGenModule;
 IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_WebXR_CodeGenModule;
@@ -65,7 +67,7 @@ IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_Zinnia_Runtime_CodeGenModule;
 IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g___Generated_CodeGenModule;
 IL2CPP_EXTERN_C_CONST Il2CppCodeGenModule g_mscorlib_CodeGenModule;
 IL2CPP_EXTERN_C const Il2CppCodeGenModule* g_CodeGenModules[];
-const Il2CppCodeGenModule* g_CodeGenModules[46] = 
+const Il2CppCodeGenModule* g_CodeGenModules[48] = 
 {
 	(&g_Mono_Security_CodeGenModule),
 	(&g_System_CodeGenModule),
@@ -77,6 +79,7 @@ const Il2CppCodeGenModule* g_CodeGenModules[46] =
 	(&g_Tilia_Input_CombinedActions_Unity_Runtime_CodeGenModule),
 	(&g_Tilia_Interactions_Controllables_Unity_Runtime_CodeGenModule),
 	(&g_Tilia_Interactions_Interactables_Unity_Runtime_CodeGenModule),
+	(&g_Tilia_Interactions_SnapZone_Unity_Runtime_CodeGenModule),
 	(&g_Tilia_Locomotors_AxisMove_Unity_Runtime_CodeGenModule),
 	(&g_Tilia_Locomotors_Teleporter_Unity_Runtime_CodeGenModule),
 	(&g_UnityEngine_AIModule_CodeGenModule),
@@ -106,6 +109,7 @@ const Il2CppCodeGenModule* g_CodeGenModules[46] =
 	(&g_UnityEngine_VRModule_CodeGenModule),
 	(&g_UnityEngine_XRModule_CodeGenModule),
 	(&g_Unity_Subsystem_Registration_CodeGenModule),
+	(&g_Unity_TextMeshPro_CodeGenModule),
 	(&g_Unity_XR_Management_CodeGenModule),
 	(&g_WebXRAssembly_CodeGenModule),
 	(&g_WebXR_CodeGenModule),
@@ -119,18 +123,18 @@ const Il2CppCodeRegistration g_CodeRegistration =
 {
 	8,
 	g_ReversePInvokeWrapperPointers,
-	21998,
+	23422,
 	g_Il2CppGenericMethodPointers,
 	g_Il2CppGenericAdjustorThunks,
-	5384,
+	5690,
 	g_Il2CppInvokerPointers,
-	878,
+	896,
 	g_UnresolvedVirtualMethodPointers,
-	300,
+	318,
 	g_Il2CppInteropData,
 	0,
 	NULL,
-	46,
+	48,
 	g_CodeGenModules,
 };
 IL2CPP_EXTERN_C_CONST Il2CppMetadataRegistration g_MetadataRegistration;

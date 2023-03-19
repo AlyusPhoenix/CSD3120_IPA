@@ -435,7 +435,20 @@
         427,
         428,
         429,
-        430
+        430,
+        431,
+        432,
+        433,
+        434,
+        435,
+        436,
+        437,
+        438,
+        439,
+        440,
+        441,
+        442,
+        443
       ],
       "AllowUnexpectedOutput": true,
       "DebugActionIndex": 0
@@ -453,7 +466,7 @@
     },
     {
       "Annotation": "UnityLinker Library/Bee/artifacts/WebGL/ManagedStripped",
-      "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.9f1\\Editor\\Data\\il2cpp/build/deploy/UnityLinker.exe\" --search-directory=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed\" --out=\"Library/Bee/artifacts/WebGL/ManagedStripped\" --include-link-xml=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed\\MethodsToPreserve.xml\" --include-link-xml=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed\\TypesInScenes.xml\" --include-link-xml=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed\\SerializedTypes.xml\" --include-directory=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed\" --dotnetprofile=unityaot-linux --dotnetruntime=Il2Cpp --architecture=EmscriptenJavaScript --platform=WebGL --use-editor-options --enable-engine-module-stripping --engine-modules-asset-file=\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/PlaybackEngines/WebGLSupport/modules.asset\" --editor-data-file=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/EditorToUnityLinkerData.json\" --include-unity-root-assembly=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/Tilia.Indicators.ObjectPointers.Unity.Runtime.dll\" --include-unity-root-assembly=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/Tilia.Locomotors.Teleporter.Unity.Runtime.dll\" --include-unity-root-assembly=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/Tilia.Input.CombinedActions.Unity.Runtime.dll\" --include-unity-root-assembly=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/UnityEngine.SpatialTracking.dll\" --include-unity-root-assembly=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/UnityEngine.UI.dll\" --include-unity-root-assembly=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/Tilia.CameraRigs.TrackedAlias.Unity.Runtime.dll\" --include-unity-root-assembly=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/Zinnia.Runtime.dll\" --include-unity-root-assembly=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/Tilia.Interactions.Interactables.Unity.Runtime.dll\" --include-unity-root-assembly=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/Unity.XR.Management.dll\" --include-unity-root-assembly=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/WebXRAssembly.dll\" --include-unity-root-assembly=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/WebXR.dll\" --include-unity-root-assembly=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/WebXR.Samples.Scripts.dll\" --include-unity-root-assembly=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/Tilia.Locomotors.AxisMove.Unity.Runtime.dll\" --include-unity-root-assembly=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/Tilia.Interactions.Controllables.Unity.Runtime.dll\" --print-command-line",
+      "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.9f1\\Editor\\Data\\il2cpp/build/deploy/UnityLinker.exe\" --search-directory=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed\" --out=\"Library/Bee/artifacts/WebGL/ManagedStripped\" --include-link-xml=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed\\MethodsToPreserve.xml\" --include-link-xml=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed\\TypesInScenes.xml\" --include-link-xml=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed\\SerializedTypes.xml\" --include-directory=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed\" --dotnetprofile=unityaot-linux --dotnetruntime=Il2Cpp --architecture=EmscriptenJavaScript --platform=WebGL --use-editor-options --enable-engine-module-stripping --engine-modules-asset-file=\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/PlaybackEngines/WebGLSupport/modules.asset\" --editor-data-file=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/EditorToUnityLinkerData.json\" --include-unity-root-assembly=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/Tilia.Interactions.Controllables.Unity.Runtime.dll\" --include-unity-root-assembly=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/Tilia.Indicators.ObjectPointers.Unity.Runtime.dll\" --include-unity-root-assembly=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/Tilia.Locomotors.Teleporter.Unity.Runtime.dll\" --include-unity-root-assembly=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/Tilia.Input.CombinedActions.Unity.Runtime.dll\" --include-unity-root-assembly=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/UnityEngine.SpatialTracking.dll\" --include-unity-root-assembly=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/UnityEngine.UI.dll\" --include-unity-root-assembly=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/Tilia.CameraRigs.TrackedAlias.Unity.Runtime.dll\" --include-unity-root-assembly=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/Zinnia.Runtime.dll\" --include-unity-root-assembly=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/Tilia.Interactions.Interactables.Unity.Runtime.dll\" --include-unity-root-assembly=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/Unity.XR.Management.dll\" --include-unity-root-assembly=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/WebXRAssembly.dll\" --include-unity-root-assembly=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/WebXR.dll\" --include-unity-root-assembly=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/Unity.TextMeshPro.dll\" --include-unity-root-assembly=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/WebXR.Samples.Scripts.dll\" --include-unity-root-assembly=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/Tilia.Locomotors.AxisMove.Unity.Runtime.dll\" --include-unity-root-assembly=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/Tilia.Interactions.SnapZone.Unity.Runtime.dll\" --print-command-line",
       "Inputs": [
         "C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/Accessibility.dll",
         "C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/Dracodec.dll",
@@ -682,6 +695,8 @@
         "C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/Tilia.Interactions.Controllables.Unity.Runtime.pdb",
         "C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/Tilia.Interactions.Interactables.Unity.Runtime.dll",
         "C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/Tilia.Interactions.Interactables.Unity.Runtime.pdb",
+        "C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/Tilia.Interactions.SnapZone.Unity.Runtime.dll",
+        "C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/Tilia.Interactions.SnapZone.Unity.Runtime.pdb",
         "C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/Tilia.Locomotors.AxisMove.Unity.Runtime.dll",
         "C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/Tilia.Locomotors.AxisMove.Unity.Runtime.pdb",
         "C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Temp/StagingArea/Data/Managed/Tilia.Locomotors.Teleporter.Unity.Runtime.dll",
@@ -911,7 +926,7 @@
     },
     {
       "Annotation": "IL2CPP_CodeGen C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/il2cpp_conv_4v03.traceevents",
-      "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.9f1\\Editor\\Data\\il2cpp/build/deploy/il2cpp.exe\" --convert-to-cpp --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/Mono.Security.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/mscorlib.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/System.Configuration.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/System.Core.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/System.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/System.Xml.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/Tilia.CameraRigs.TrackedAlias.Unity.Runtime.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/Tilia.Indicators.ObjectPointers.Unity.Runtime.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/Tilia.Input.CombinedActions.Unity.Runtime.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/Tilia.Interactions.Controllables.Unity.Runtime.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/Tilia.Interactions.Interactables.Unity.Runtime.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/Tilia.Locomotors.AxisMove.Unity.Runtime.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/Tilia.Locomotors.Teleporter.Unity.Runtime.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/Unity.Subsystem.Registration.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/Unity.XR.Management.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.AIModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.AnimationModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.AudioModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.CoreModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.GridModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.IMGUIModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.InputLegacyModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.InputModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.JSONSerializeModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.Physics2DModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.PhysicsModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.SharedInternalsModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.SpatialTracking.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.SpriteShapeModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.SubsystemsModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.TextCoreFontEngineModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.TextCoreTextEngineModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.TextRenderingModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.TilemapModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.UI.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.UIElementsModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.UIElementsNativeModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.UIModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.VRModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.XRModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/WebXR.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/WebXR.Samples.Scripts.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/WebXRAssembly.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/Zinnia.Runtime.dll\" --data-folder=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/data\" --generatedcppdir=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp\" --emit-method-map --dotnetprofile=unityaot-linux --profiler-report --profiler-output-file=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/il2cpp_conv_4v03.traceevents\" --print-command-line",
+      "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.9f1\\Editor\\Data\\il2cpp/build/deploy/il2cpp.exe\" --convert-to-cpp --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/Mono.Security.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/mscorlib.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/System.Configuration.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/System.Core.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/System.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/System.Xml.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/Tilia.CameraRigs.TrackedAlias.Unity.Runtime.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/Tilia.Indicators.ObjectPointers.Unity.Runtime.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/Tilia.Input.CombinedActions.Unity.Runtime.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/Tilia.Interactions.Controllables.Unity.Runtime.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/Tilia.Interactions.Interactables.Unity.Runtime.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/Tilia.Interactions.SnapZone.Unity.Runtime.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/Tilia.Locomotors.AxisMove.Unity.Runtime.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/Tilia.Locomotors.Teleporter.Unity.Runtime.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/Unity.Subsystem.Registration.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/Unity.TextMeshPro.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/Unity.XR.Management.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.AIModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.AnimationModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.AudioModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.CoreModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.GridModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.IMGUIModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.InputLegacyModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.InputModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.JSONSerializeModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.Physics2DModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.PhysicsModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.SharedInternalsModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.SpatialTracking.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.SpriteShapeModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.SubsystemsModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.TextCoreFontEngineModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.TextCoreTextEngineModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.TextRenderingModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.TilemapModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.UI.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.UIElementsModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.UIElementsNativeModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.UIModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.VRModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.XRModule.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/WebXR.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/WebXR.Samples.Scripts.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/WebXRAssembly.dll\" --assembly=\"Library/Bee/artifacts/WebGL/ManagedStripped/Zinnia.Runtime.dll\" --data-folder=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/data\" --generatedcppdir=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp\" --emit-method-map --dotnetprofile=unityaot-linux --profiler-report --profiler-output-file=\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/il2cpp_conv_4v03.traceevents\" --print-command-line",
       "ProfilerOutput": "C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/il2cpp_conv_4v03.traceevents",
       "Inputs": [
         "C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/Il2CppEagerStaticClassConstructionAttribute.cs",
@@ -929,9 +944,11 @@
         "Library/Bee/artifacts/WebGL/ManagedStripped/Tilia.Input.CombinedActions.Unity.Runtime.dll",
         "Library/Bee/artifacts/WebGL/ManagedStripped/Tilia.Interactions.Controllables.Unity.Runtime.dll",
         "Library/Bee/artifacts/WebGL/ManagedStripped/Tilia.Interactions.Interactables.Unity.Runtime.dll",
+        "Library/Bee/artifacts/WebGL/ManagedStripped/Tilia.Interactions.SnapZone.Unity.Runtime.dll",
         "Library/Bee/artifacts/WebGL/ManagedStripped/Tilia.Locomotors.AxisMove.Unity.Runtime.dll",
         "Library/Bee/artifacts/WebGL/ManagedStripped/Tilia.Locomotors.Teleporter.Unity.Runtime.dll",
         "Library/Bee/artifacts/WebGL/ManagedStripped/Unity.Subsystem.Registration.dll",
+        "Library/Bee/artifacts/WebGL/ManagedStripped/Unity.TextMeshPro.dll",
         "Library/Bee/artifacts/WebGL/ManagedStripped/Unity.XR.Management.dll",
         "Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.AIModule.dll",
         "Library/Bee/artifacts/WebGL/ManagedStripped/UnityEngine.AnimationModule.dll",
@@ -7678,6 +7695,45 @@
       "ScannerIndex": 3
     },
     {
+      "Annotation": "C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/eq2o_icMethods7.o",
+      "Action": "\"Library/Bee/artifacts/emscripten/zag6a/wrapper_emcc.bat\" -D__webgl__ -Wno-warn-absolute-paths -Wno-c++11-extensions -Wno-nonportable-include-path -ffunction-sections -fno-unwind-tables -fomit-frame-pointer -fno-threadsafe-statics -std=c++11 -Wno-#warnings -Wswitch -Wno-trigraphs -Wno-tautological-compare -Wno-invalid-offsetof -Wno-implicitly-unsigned-literal -Wno-integer-overflow -Wno-shift-negative-value -Wno-unknown-attributes -Wno-implicit-function-declaration -Wno-null-conversion -Wno-missing-declarations -Wno-unused-value -Wno-pragma-once-outside-header -fvisibility=hidden -fexceptions -fno-rtti -flto -fno-strict-overflow -ffunction-sections -fdata-sections -fmessage-length=0 -pipe -DBASELIB_INLINE_NAMESPACE=il2cpp_baselib -DIL2CPP_MONO_DEBUGGER_DISABLED -DRUNTIME_IL2CPP -DHAVE_BDWGC_GC -DNDEBUG -I\".\" -I\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/libil2cpp/pch\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/libil2cpp\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/external/baselib/Include\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/external/baselib/Platforms/WebGL/Include\" -o \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/eq2o_icMethods7.o\" -Oz -fcolor-diagnostics -fdiagnostics-absolute-paths -UGC_THREADS -UUSE_MMAP -UUSE_MUNMAP -c -xc++ \"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp/GenericMethods7.cpp\"",
+      "Inputs": [
+        "C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp/GenericMethods7.cpp",
+        "Library/Bee/artifacts/emscripten/zag6a/wrapper_emcc.bat",
+        "Library/Bee/artifacts/emscripten/0eow5/wrapper_emar.bat",
+        "C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/Emscripten/emscripten/emcc.bat"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/eq2o_icMethods7.o"
+      ],
+      "ToBuildDependencies": [
+        3,
+        7,
+        8
+      ],
+      "AllowUnexpectedOutput": true,
+      "Env": [
+        {
+          "Key": "EM_CONFIG",
+          "Value": "C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.9f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\BuildTools\\Emscripten\\.emscripten"
+        },
+        {
+          "Key": "EMSDK_PYTHON",
+          "Value": "C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.9f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\BuildTools\\Emscripten\\python\\python.exe"
+        },
+        {
+          "Key": "EMCC_SKIP_SANITY_CHECK",
+          "Value": "1"
+        },
+        {
+          "Key": "EM_FROZEN_CACHE",
+          "Value": "1"
+        }
+      ],
+      "DebugActionIndex": 214,
+      "ScannerIndex": 3
+    },
+    {
       "Annotation": "C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/4e2d_Generics.o",
       "Action": "\"Library/Bee/artifacts/emscripten/zag6a/wrapper_emcc.bat\" -D__webgl__ -Wno-warn-absolute-paths -Wno-c++11-extensions -Wno-nonportable-include-path -ffunction-sections -fno-unwind-tables -fomit-frame-pointer -fno-threadsafe-statics -std=c++11 -Wno-#warnings -Wswitch -Wno-trigraphs -Wno-tautological-compare -Wno-invalid-offsetof -Wno-implicitly-unsigned-literal -Wno-integer-overflow -Wno-shift-negative-value -Wno-unknown-attributes -Wno-implicit-function-declaration -Wno-null-conversion -Wno-missing-declarations -Wno-unused-value -Wno-pragma-once-outside-header -fvisibility=hidden -fexceptions -fno-rtti -flto -fno-strict-overflow -ffunction-sections -fdata-sections -fmessage-length=0 -pipe -DBASELIB_INLINE_NAMESPACE=il2cpp_baselib -DIL2CPP_MONO_DEBUGGER_DISABLED -DRUNTIME_IL2CPP -DHAVE_BDWGC_GC -DNDEBUG -I\".\" -I\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/libil2cpp/pch\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/libil2cpp\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/external/baselib/Include\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/external/baselib/Platforms/WebGL/Include\" -o \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/4e2d_Generics.o\" -Oz -fcolor-diagnostics -fdiagnostics-absolute-paths -UGC_THREADS -UUSE_MMAP -UUSE_MUNMAP -c -xc++ \"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp/Generics.cpp\"",
       "Inputs": [
@@ -7713,7 +7769,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 214,
+      "DebugActionIndex": 215,
       "ScannerIndex": 3
     },
     {
@@ -7752,7 +7808,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 215,
+      "DebugActionIndex": 216,
       "ScannerIndex": 3
     },
     {
@@ -7791,7 +7847,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 216,
+      "DebugActionIndex": 217,
       "ScannerIndex": 3
     },
     {
@@ -7830,7 +7886,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 217,
+      "DebugActionIndex": 218,
       "ScannerIndex": 3
     },
     {
@@ -7869,7 +7925,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 218,
+      "DebugActionIndex": 219,
       "ScannerIndex": 3
     },
     {
@@ -7908,7 +7964,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 219,
+      "DebugActionIndex": 220,
       "ScannerIndex": 3
     },
     {
@@ -7947,7 +8003,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 220,
+      "DebugActionIndex": 221,
       "ScannerIndex": 3
     },
     {
@@ -7986,7 +8042,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 221,
+      "DebugActionIndex": 222,
       "ScannerIndex": 3
     },
     {
@@ -8025,7 +8081,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 222,
+      "DebugActionIndex": 223,
       "ScannerIndex": 3
     },
     {
@@ -8064,7 +8120,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 223,
+      "DebugActionIndex": 224,
       "ScannerIndex": 3
     },
     {
@@ -8103,7 +8159,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 224,
+      "DebugActionIndex": 225,
       "ScannerIndex": 3
     },
     {
@@ -8142,7 +8198,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 225,
+      "DebugActionIndex": 226,
       "ScannerIndex": 3
     },
     {
@@ -8181,7 +8237,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 226,
+      "DebugActionIndex": 227,
       "ScannerIndex": 3
     },
     {
@@ -8220,7 +8276,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 227,
+      "DebugActionIndex": 228,
       "ScannerIndex": 3
     },
     {
@@ -8259,7 +8315,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 228,
+      "DebugActionIndex": 229,
       "ScannerIndex": 3
     },
     {
@@ -8298,7 +8354,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 229,
+      "DebugActionIndex": 230,
       "ScannerIndex": 3
     },
     {
@@ -8337,7 +8393,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 230,
+      "DebugActionIndex": 231,
       "ScannerIndex": 3
     },
     {
@@ -8376,7 +8432,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 231,
+      "DebugActionIndex": 232,
       "ScannerIndex": 3
     },
     {
@@ -8415,7 +8471,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 232,
+      "DebugActionIndex": 233,
       "ScannerIndex": 3
     },
     {
@@ -8454,7 +8510,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 233,
+      "DebugActionIndex": 234,
       "ScannerIndex": 3
     },
     {
@@ -8493,7 +8549,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 234,
+      "DebugActionIndex": 235,
       "ScannerIndex": 3
     },
     {
@@ -8532,7 +8588,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 235,
+      "DebugActionIndex": 236,
       "ScannerIndex": 3
     },
     {
@@ -8571,7 +8627,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 236,
+      "DebugActionIndex": 237,
       "ScannerIndex": 3
     },
     {
@@ -8610,7 +8666,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 237,
+      "DebugActionIndex": 238,
       "ScannerIndex": 3
     },
     {
@@ -8649,7 +8705,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 238,
+      "DebugActionIndex": 239,
       "ScannerIndex": 3
     },
     {
@@ -8688,7 +8744,85 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 239,
+      "DebugActionIndex": 240,
+      "ScannerIndex": 3
+    },
+    {
+      "Annotation": "C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/btb0_Generics32.o",
+      "Action": "\"Library/Bee/artifacts/emscripten/zag6a/wrapper_emcc.bat\" -D__webgl__ -Wno-warn-absolute-paths -Wno-c++11-extensions -Wno-nonportable-include-path -ffunction-sections -fno-unwind-tables -fomit-frame-pointer -fno-threadsafe-statics -std=c++11 -Wno-#warnings -Wswitch -Wno-trigraphs -Wno-tautological-compare -Wno-invalid-offsetof -Wno-implicitly-unsigned-literal -Wno-integer-overflow -Wno-shift-negative-value -Wno-unknown-attributes -Wno-implicit-function-declaration -Wno-null-conversion -Wno-missing-declarations -Wno-unused-value -Wno-pragma-once-outside-header -fvisibility=hidden -fexceptions -fno-rtti -flto -fno-strict-overflow -ffunction-sections -fdata-sections -fmessage-length=0 -pipe -DBASELIB_INLINE_NAMESPACE=il2cpp_baselib -DIL2CPP_MONO_DEBUGGER_DISABLED -DRUNTIME_IL2CPP -DHAVE_BDWGC_GC -DNDEBUG -I\".\" -I\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/libil2cpp/pch\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/libil2cpp\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/external/baselib/Include\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/external/baselib/Platforms/WebGL/Include\" -o \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/btb0_Generics32.o\" -Oz -fcolor-diagnostics -fdiagnostics-absolute-paths -UGC_THREADS -UUSE_MMAP -UUSE_MUNMAP -c -xc++ \"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp/Generics32.cpp\"",
+      "Inputs": [
+        "C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp/Generics32.cpp",
+        "Library/Bee/artifacts/emscripten/zag6a/wrapper_emcc.bat",
+        "Library/Bee/artifacts/emscripten/0eow5/wrapper_emar.bat",
+        "C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/Emscripten/emscripten/emcc.bat"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/btb0_Generics32.o"
+      ],
+      "ToBuildDependencies": [
+        3,
+        7,
+        8
+      ],
+      "AllowUnexpectedOutput": true,
+      "Env": [
+        {
+          "Key": "EM_CONFIG",
+          "Value": "C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.9f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\BuildTools\\Emscripten\\.emscripten"
+        },
+        {
+          "Key": "EMSDK_PYTHON",
+          "Value": "C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.9f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\BuildTools\\Emscripten\\python\\python.exe"
+        },
+        {
+          "Key": "EMCC_SKIP_SANITY_CHECK",
+          "Value": "1"
+        },
+        {
+          "Key": "EM_FROZEN_CACHE",
+          "Value": "1"
+        }
+      ],
+      "DebugActionIndex": 241,
+      "ScannerIndex": 3
+    },
+    {
+      "Annotation": "C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/c1vg_Generics33.o",
+      "Action": "\"Library/Bee/artifacts/emscripten/zag6a/wrapper_emcc.bat\" -D__webgl__ -Wno-warn-absolute-paths -Wno-c++11-extensions -Wno-nonportable-include-path -ffunction-sections -fno-unwind-tables -fomit-frame-pointer -fno-threadsafe-statics -std=c++11 -Wno-#warnings -Wswitch -Wno-trigraphs -Wno-tautological-compare -Wno-invalid-offsetof -Wno-implicitly-unsigned-literal -Wno-integer-overflow -Wno-shift-negative-value -Wno-unknown-attributes -Wno-implicit-function-declaration -Wno-null-conversion -Wno-missing-declarations -Wno-unused-value -Wno-pragma-once-outside-header -fvisibility=hidden -fexceptions -fno-rtti -flto -fno-strict-overflow -ffunction-sections -fdata-sections -fmessage-length=0 -pipe -DBASELIB_INLINE_NAMESPACE=il2cpp_baselib -DIL2CPP_MONO_DEBUGGER_DISABLED -DRUNTIME_IL2CPP -DHAVE_BDWGC_GC -DNDEBUG -I\".\" -I\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/libil2cpp/pch\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/libil2cpp\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/external/baselib/Include\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/external/baselib/Platforms/WebGL/Include\" -o \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/c1vg_Generics33.o\" -Oz -fcolor-diagnostics -fdiagnostics-absolute-paths -UGC_THREADS -UUSE_MMAP -UUSE_MUNMAP -c -xc++ \"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp/Generics33.cpp\"",
+      "Inputs": [
+        "C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp/Generics33.cpp",
+        "Library/Bee/artifacts/emscripten/zag6a/wrapper_emcc.bat",
+        "Library/Bee/artifacts/emscripten/0eow5/wrapper_emar.bat",
+        "C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/Emscripten/emscripten/emcc.bat"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/c1vg_Generics33.o"
+      ],
+      "ToBuildDependencies": [
+        3,
+        7,
+        8
+      ],
+      "AllowUnexpectedOutput": true,
+      "Env": [
+        {
+          "Key": "EM_CONFIG",
+          "Value": "C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.9f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\BuildTools\\Emscripten\\.emscripten"
+        },
+        {
+          "Key": "EMSDK_PYTHON",
+          "Value": "C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.9f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\BuildTools\\Emscripten\\python\\python.exe"
+        },
+        {
+          "Key": "EMCC_SKIP_SANITY_CHECK",
+          "Value": "1"
+        },
+        {
+          "Key": "EM_FROZEN_CACHE",
+          "Value": "1"
+        }
+      ],
+      "DebugActionIndex": 242,
       "ScannerIndex": 3
     },
     {
@@ -8727,7 +8861,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 240,
+      "DebugActionIndex": 243,
       "ScannerIndex": 3
     },
     {
@@ -8766,7 +8900,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 241,
+      "DebugActionIndex": 244,
       "ScannerIndex": 3
     },
     {
@@ -8805,7 +8939,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 242,
+      "DebugActionIndex": 245,
       "ScannerIndex": 3
     },
     {
@@ -8844,7 +8978,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 243,
+      "DebugActionIndex": 246,
       "ScannerIndex": 3
     },
     {
@@ -8883,7 +9017,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 244,
+      "DebugActionIndex": 247,
       "ScannerIndex": 3
     },
     {
@@ -8922,7 +9056,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 245,
+      "DebugActionIndex": 248,
       "ScannerIndex": 3
     },
     {
@@ -8961,7 +9095,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 246,
+      "DebugActionIndex": 249,
       "ScannerIndex": 3
     },
     {
@@ -9000,7 +9134,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 247,
+      "DebugActionIndex": 250,
       "ScannerIndex": 3
     },
     {
@@ -9039,7 +9173,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 248,
+      "DebugActionIndex": 251,
       "ScannerIndex": 3
     },
     {
@@ -9078,7 +9212,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 249,
+      "DebugActionIndex": 252,
       "ScannerIndex": 3
     },
     {
@@ -9117,7 +9251,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 250,
+      "DebugActionIndex": 253,
       "ScannerIndex": 3
     },
     {
@@ -9156,7 +9290,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 251,
+      "DebugActionIndex": 254,
       "ScannerIndex": 3
     },
     {
@@ -9195,7 +9329,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 252,
+      "DebugActionIndex": 255,
       "ScannerIndex": 3
     },
     {
@@ -9234,7 +9368,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 253,
+      "DebugActionIndex": 256,
       "ScannerIndex": 3
     },
     {
@@ -9273,7 +9407,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 254,
+      "DebugActionIndex": 257,
       "ScannerIndex": 3
     },
     {
@@ -9312,7 +9446,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 255,
+      "DebugActionIndex": 258,
       "ScannerIndex": 3
     },
     {
@@ -9351,7 +9485,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 256,
+      "DebugActionIndex": 259,
       "ScannerIndex": 3
     },
     {
@@ -9390,7 +9524,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 257,
+      "DebugActionIndex": 260,
       "ScannerIndex": 3
     },
     {
@@ -9429,7 +9563,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 258,
+      "DebugActionIndex": 261,
       "ScannerIndex": 3
     },
     {
@@ -9468,7 +9602,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 259,
+      "DebugActionIndex": 262,
       "ScannerIndex": 3
     },
     {
@@ -9507,7 +9641,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 260,
+      "DebugActionIndex": 263,
       "ScannerIndex": 3
     },
     {
@@ -9546,7 +9680,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 261,
+      "DebugActionIndex": 264,
       "ScannerIndex": 3
     },
     {
@@ -9585,7 +9719,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 262,
+      "DebugActionIndex": 265,
       "ScannerIndex": 3
     },
     {
@@ -9624,7 +9758,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 263,
+      "DebugActionIndex": 266,
       "ScannerIndex": 3
     },
     {
@@ -9663,7 +9797,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 264,
+      "DebugActionIndex": 267,
       "ScannerIndex": 3
     },
     {
@@ -9702,7 +9836,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 265,
+      "DebugActionIndex": 268,
       "ScannerIndex": 3
     },
     {
@@ -9741,7 +9875,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 266,
+      "DebugActionIndex": 269,
       "ScannerIndex": 3
     },
     {
@@ -9780,7 +9914,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 267,
+      "DebugActionIndex": 270,
       "ScannerIndex": 3
     },
     {
@@ -9819,7 +9953,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 268,
+      "DebugActionIndex": 271,
       "ScannerIndex": 3
     },
     {
@@ -9858,7 +9992,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 269,
+      "DebugActionIndex": 272,
       "ScannerIndex": 3
     },
     {
@@ -9897,7 +10031,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 270,
+      "DebugActionIndex": 273,
       "ScannerIndex": 3
     },
     {
@@ -9936,7 +10070,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 271,
+      "DebugActionIndex": 274,
       "ScannerIndex": 3
     },
     {
@@ -9975,7 +10109,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 272,
+      "DebugActionIndex": 275,
       "ScannerIndex": 3
     },
     {
@@ -10014,7 +10148,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 273,
+      "DebugActionIndex": 276,
       "ScannerIndex": 3
     },
     {
@@ -10053,7 +10187,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 274,
+      "DebugActionIndex": 277,
       "ScannerIndex": 3
     },
     {
@@ -10092,7 +10226,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 275,
+      "DebugActionIndex": 278,
       "ScannerIndex": 3
     },
     {
@@ -10131,7 +10265,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 276,
+      "DebugActionIndex": 279,
       "ScannerIndex": 3
     },
     {
@@ -10170,7 +10304,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 277,
+      "DebugActionIndex": 280,
       "ScannerIndex": 3
     },
     {
@@ -10209,7 +10343,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 278,
+      "DebugActionIndex": 281,
       "ScannerIndex": 3
     },
     {
@@ -10248,7 +10382,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 279,
+      "DebugActionIndex": 282,
       "ScannerIndex": 3
     },
     {
@@ -10287,7 +10421,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 280,
+      "DebugActionIndex": 283,
       "ScannerIndex": 3
     },
     {
@@ -10326,7 +10460,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 281,
+      "DebugActionIndex": 284,
       "ScannerIndex": 3
     },
     {
@@ -10365,7 +10499,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 282,
+      "DebugActionIndex": 285,
       "ScannerIndex": 3
     },
     {
@@ -10404,7 +10538,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 283,
+      "DebugActionIndex": 286,
       "ScannerIndex": 3
     },
     {
@@ -10443,7 +10577,46 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 284,
+      "DebugActionIndex": 287,
+      "ScannerIndex": 3
+    },
+    {
+      "Annotation": "C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/3aof_ty.Runtime.o",
+      "Action": "\"Library/Bee/artifacts/emscripten/zag6a/wrapper_emcc.bat\" -D__webgl__ -Wno-warn-absolute-paths -Wno-c++11-extensions -Wno-nonportable-include-path -ffunction-sections -fno-unwind-tables -fomit-frame-pointer -fno-threadsafe-statics -std=c++11 -Wno-#warnings -Wswitch -Wno-trigraphs -Wno-tautological-compare -Wno-invalid-offsetof -Wno-implicitly-unsigned-literal -Wno-integer-overflow -Wno-shift-negative-value -Wno-unknown-attributes -Wno-implicit-function-declaration -Wno-null-conversion -Wno-missing-declarations -Wno-unused-value -Wno-pragma-once-outside-header -fvisibility=hidden -fexceptions -fno-rtti -flto -fno-strict-overflow -ffunction-sections -fdata-sections -fmessage-length=0 -pipe -DBASELIB_INLINE_NAMESPACE=il2cpp_baselib -DIL2CPP_MONO_DEBUGGER_DISABLED -DRUNTIME_IL2CPP -DHAVE_BDWGC_GC -DNDEBUG -I\".\" -I\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/libil2cpp/pch\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/libil2cpp\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/external/baselib/Include\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/external/baselib/Platforms/WebGL/Include\" -o \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/3aof_ty.Runtime.o\" -Oz -fcolor-diagnostics -fdiagnostics-absolute-paths -UGC_THREADS -UUSE_MMAP -UUSE_MUNMAP -c -xc++ \"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp/Tilia.Interactions.SnapZone.Unity.Runtime.cpp\"",
+      "Inputs": [
+        "C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp/Tilia.Interactions.SnapZone.Unity.Runtime.cpp",
+        "Library/Bee/artifacts/emscripten/zag6a/wrapper_emcc.bat",
+        "Library/Bee/artifacts/emscripten/0eow5/wrapper_emar.bat",
+        "C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/Emscripten/emscripten/emcc.bat"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/3aof_ty.Runtime.o"
+      ],
+      "ToBuildDependencies": [
+        3,
+        7,
+        8
+      ],
+      "AllowUnexpectedOutput": true,
+      "Env": [
+        {
+          "Key": "EM_CONFIG",
+          "Value": "C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.9f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\BuildTools\\Emscripten\\.emscripten"
+        },
+        {
+          "Key": "EMSDK_PYTHON",
+          "Value": "C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.9f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\BuildTools\\Emscripten\\python\\python.exe"
+        },
+        {
+          "Key": "EMCC_SKIP_SANITY_CHECK",
+          "Value": "1"
+        },
+        {
+          "Key": "EM_FROZEN_CACHE",
+          "Value": "1"
+        }
+      ],
+      "DebugActionIndex": 288,
       "ScannerIndex": 3
     },
     {
@@ -10482,7 +10655,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 285,
+      "DebugActionIndex": 289,
       "ScannerIndex": 3
     },
     {
@@ -10521,7 +10694,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 286,
+      "DebugActionIndex": 290,
       "ScannerIndex": 3
     },
     {
@@ -10560,7 +10733,280 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 287,
+      "DebugActionIndex": 291,
+      "ScannerIndex": 3
+    },
+    {
+      "Annotation": "C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/cmlp_extMeshPro.o",
+      "Action": "\"Library/Bee/artifacts/emscripten/zag6a/wrapper_emcc.bat\" -D__webgl__ -Wno-warn-absolute-paths -Wno-c++11-extensions -Wno-nonportable-include-path -ffunction-sections -fno-unwind-tables -fomit-frame-pointer -fno-threadsafe-statics -std=c++11 -Wno-#warnings -Wswitch -Wno-trigraphs -Wno-tautological-compare -Wno-invalid-offsetof -Wno-implicitly-unsigned-literal -Wno-integer-overflow -Wno-shift-negative-value -Wno-unknown-attributes -Wno-implicit-function-declaration -Wno-null-conversion -Wno-missing-declarations -Wno-unused-value -Wno-pragma-once-outside-header -fvisibility=hidden -fexceptions -fno-rtti -flto -fno-strict-overflow -ffunction-sections -fdata-sections -fmessage-length=0 -pipe -DBASELIB_INLINE_NAMESPACE=il2cpp_baselib -DIL2CPP_MONO_DEBUGGER_DISABLED -DRUNTIME_IL2CPP -DHAVE_BDWGC_GC -DNDEBUG -I\".\" -I\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/libil2cpp/pch\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/libil2cpp\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/external/baselib/Include\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/external/baselib/Platforms/WebGL/Include\" -o \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/cmlp_extMeshPro.o\" -Oz -fcolor-diagnostics -fdiagnostics-absolute-paths -UGC_THREADS -UUSE_MMAP -UUSE_MUNMAP -c -xc++ \"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp/Unity.TextMeshPro.cpp\"",
+      "Inputs": [
+        "C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp/Unity.TextMeshPro.cpp",
+        "Library/Bee/artifacts/emscripten/zag6a/wrapper_emcc.bat",
+        "Library/Bee/artifacts/emscripten/0eow5/wrapper_emar.bat",
+        "C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/Emscripten/emscripten/emcc.bat"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/cmlp_extMeshPro.o"
+      ],
+      "ToBuildDependencies": [
+        3,
+        7,
+        8
+      ],
+      "AllowUnexpectedOutput": true,
+      "Env": [
+        {
+          "Key": "EM_CONFIG",
+          "Value": "C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.9f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\BuildTools\\Emscripten\\.emscripten"
+        },
+        {
+          "Key": "EMSDK_PYTHON",
+          "Value": "C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.9f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\BuildTools\\Emscripten\\python\\python.exe"
+        },
+        {
+          "Key": "EMCC_SKIP_SANITY_CHECK",
+          "Value": "1"
+        },
+        {
+          "Key": "EM_FROZEN_CACHE",
+          "Value": "1"
+        }
+      ],
+      "DebugActionIndex": 292,
+      "ScannerIndex": 3
+    },
+    {
+      "Annotation": "C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/zy3a_xtMeshPro1.o",
+      "Action": "\"Library/Bee/artifacts/emscripten/zag6a/wrapper_emcc.bat\" -D__webgl__ -Wno-warn-absolute-paths -Wno-c++11-extensions -Wno-nonportable-include-path -ffunction-sections -fno-unwind-tables -fomit-frame-pointer -fno-threadsafe-statics -std=c++11 -Wno-#warnings -Wswitch -Wno-trigraphs -Wno-tautological-compare -Wno-invalid-offsetof -Wno-implicitly-unsigned-literal -Wno-integer-overflow -Wno-shift-negative-value -Wno-unknown-attributes -Wno-implicit-function-declaration -Wno-null-conversion -Wno-missing-declarations -Wno-unused-value -Wno-pragma-once-outside-header -fvisibility=hidden -fexceptions -fno-rtti -flto -fno-strict-overflow -ffunction-sections -fdata-sections -fmessage-length=0 -pipe -DBASELIB_INLINE_NAMESPACE=il2cpp_baselib -DIL2CPP_MONO_DEBUGGER_DISABLED -DRUNTIME_IL2CPP -DHAVE_BDWGC_GC -DNDEBUG -I\".\" -I\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/libil2cpp/pch\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/libil2cpp\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/external/baselib/Include\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/external/baselib/Platforms/WebGL/Include\" -o \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/zy3a_xtMeshPro1.o\" -Oz -fcolor-diagnostics -fdiagnostics-absolute-paths -UGC_THREADS -UUSE_MMAP -UUSE_MUNMAP -c -xc++ \"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp/Unity.TextMeshPro1.cpp\"",
+      "Inputs": [
+        "C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp/Unity.TextMeshPro1.cpp",
+        "Library/Bee/artifacts/emscripten/zag6a/wrapper_emcc.bat",
+        "Library/Bee/artifacts/emscripten/0eow5/wrapper_emar.bat",
+        "C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/Emscripten/emscripten/emcc.bat"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/zy3a_xtMeshPro1.o"
+      ],
+      "ToBuildDependencies": [
+        3,
+        7,
+        8
+      ],
+      "AllowUnexpectedOutput": true,
+      "Env": [
+        {
+          "Key": "EM_CONFIG",
+          "Value": "C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.9f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\BuildTools\\Emscripten\\.emscripten"
+        },
+        {
+          "Key": "EMSDK_PYTHON",
+          "Value": "C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.9f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\BuildTools\\Emscripten\\python\\python.exe"
+        },
+        {
+          "Key": "EMCC_SKIP_SANITY_CHECK",
+          "Value": "1"
+        },
+        {
+          "Key": "EM_FROZEN_CACHE",
+          "Value": "1"
+        }
+      ],
+      "DebugActionIndex": 293,
+      "ScannerIndex": 3
+    },
+    {
+      "Annotation": "C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/ke7y_xtMeshPro2.o",
+      "Action": "\"Library/Bee/artifacts/emscripten/zag6a/wrapper_emcc.bat\" -D__webgl__ -Wno-warn-absolute-paths -Wno-c++11-extensions -Wno-nonportable-include-path -ffunction-sections -fno-unwind-tables -fomit-frame-pointer -fno-threadsafe-statics -std=c++11 -Wno-#warnings -Wswitch -Wno-trigraphs -Wno-tautological-compare -Wno-invalid-offsetof -Wno-implicitly-unsigned-literal -Wno-integer-overflow -Wno-shift-negative-value -Wno-unknown-attributes -Wno-implicit-function-declaration -Wno-null-conversion -Wno-missing-declarations -Wno-unused-value -Wno-pragma-once-outside-header -fvisibility=hidden -fexceptions -fno-rtti -flto -fno-strict-overflow -ffunction-sections -fdata-sections -fmessage-length=0 -pipe -DBASELIB_INLINE_NAMESPACE=il2cpp_baselib -DIL2CPP_MONO_DEBUGGER_DISABLED -DRUNTIME_IL2CPP -DHAVE_BDWGC_GC -DNDEBUG -I\".\" -I\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/libil2cpp/pch\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/libil2cpp\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/external/baselib/Include\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/external/baselib/Platforms/WebGL/Include\" -o \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/ke7y_xtMeshPro2.o\" -Oz -fcolor-diagnostics -fdiagnostics-absolute-paths -UGC_THREADS -UUSE_MMAP -UUSE_MUNMAP -c -xc++ \"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp/Unity.TextMeshPro2.cpp\"",
+      "Inputs": [
+        "C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp/Unity.TextMeshPro2.cpp",
+        "Library/Bee/artifacts/emscripten/zag6a/wrapper_emcc.bat",
+        "Library/Bee/artifacts/emscripten/0eow5/wrapper_emar.bat",
+        "C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/Emscripten/emscripten/emcc.bat"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/ke7y_xtMeshPro2.o"
+      ],
+      "ToBuildDependencies": [
+        3,
+        7,
+        8
+      ],
+      "AllowUnexpectedOutput": true,
+      "Env": [
+        {
+          "Key": "EM_CONFIG",
+          "Value": "C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.9f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\BuildTools\\Emscripten\\.emscripten"
+        },
+        {
+          "Key": "EMSDK_PYTHON",
+          "Value": "C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.9f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\BuildTools\\Emscripten\\python\\python.exe"
+        },
+        {
+          "Key": "EMCC_SKIP_SANITY_CHECK",
+          "Value": "1"
+        },
+        {
+          "Key": "EM_FROZEN_CACHE",
+          "Value": "1"
+        }
+      ],
+      "DebugActionIndex": 294,
+      "ScannerIndex": 3
+    },
+    {
+      "Annotation": "C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/lmrf_xtMeshPro3.o",
+      "Action": "\"Library/Bee/artifacts/emscripten/zag6a/wrapper_emcc.bat\" -D__webgl__ -Wno-warn-absolute-paths -Wno-c++11-extensions -Wno-nonportable-include-path -ffunction-sections -fno-unwind-tables -fomit-frame-pointer -fno-threadsafe-statics -std=c++11 -Wno-#warnings -Wswitch -Wno-trigraphs -Wno-tautological-compare -Wno-invalid-offsetof -Wno-implicitly-unsigned-literal -Wno-integer-overflow -Wno-shift-negative-value -Wno-unknown-attributes -Wno-implicit-function-declaration -Wno-null-conversion -Wno-missing-declarations -Wno-unused-value -Wno-pragma-once-outside-header -fvisibility=hidden -fexceptions -fno-rtti -flto -fno-strict-overflow -ffunction-sections -fdata-sections -fmessage-length=0 -pipe -DBASELIB_INLINE_NAMESPACE=il2cpp_baselib -DIL2CPP_MONO_DEBUGGER_DISABLED -DRUNTIME_IL2CPP -DHAVE_BDWGC_GC -DNDEBUG -I\".\" -I\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/libil2cpp/pch\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/libil2cpp\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/external/baselib/Include\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/external/baselib/Platforms/WebGL/Include\" -o \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/lmrf_xtMeshPro3.o\" -Oz -fcolor-diagnostics -fdiagnostics-absolute-paths -UGC_THREADS -UUSE_MMAP -UUSE_MUNMAP -c -xc++ \"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp/Unity.TextMeshPro3.cpp\"",
+      "Inputs": [
+        "C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp/Unity.TextMeshPro3.cpp",
+        "Library/Bee/artifacts/emscripten/zag6a/wrapper_emcc.bat",
+        "Library/Bee/artifacts/emscripten/0eow5/wrapper_emar.bat",
+        "C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/Emscripten/emscripten/emcc.bat"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/lmrf_xtMeshPro3.o"
+      ],
+      "ToBuildDependencies": [
+        3,
+        7,
+        8
+      ],
+      "AllowUnexpectedOutput": true,
+      "Env": [
+        {
+          "Key": "EM_CONFIG",
+          "Value": "C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.9f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\BuildTools\\Emscripten\\.emscripten"
+        },
+        {
+          "Key": "EMSDK_PYTHON",
+          "Value": "C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.9f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\BuildTools\\Emscripten\\python\\python.exe"
+        },
+        {
+          "Key": "EMCC_SKIP_SANITY_CHECK",
+          "Value": "1"
+        },
+        {
+          "Key": "EM_FROZEN_CACHE",
+          "Value": "1"
+        }
+      ],
+      "DebugActionIndex": 295,
+      "ScannerIndex": 3
+    },
+    {
+      "Annotation": "C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/61u3_xtMeshPro4.o",
+      "Action": "\"Library/Bee/artifacts/emscripten/zag6a/wrapper_emcc.bat\" -D__webgl__ -Wno-warn-absolute-paths -Wno-c++11-extensions -Wno-nonportable-include-path -ffunction-sections -fno-unwind-tables -fomit-frame-pointer -fno-threadsafe-statics -std=c++11 -Wno-#warnings -Wswitch -Wno-trigraphs -Wno-tautological-compare -Wno-invalid-offsetof -Wno-implicitly-unsigned-literal -Wno-integer-overflow -Wno-shift-negative-value -Wno-unknown-attributes -Wno-implicit-function-declaration -Wno-null-conversion -Wno-missing-declarations -Wno-unused-value -Wno-pragma-once-outside-header -fvisibility=hidden -fexceptions -fno-rtti -flto -fno-strict-overflow -ffunction-sections -fdata-sections -fmessage-length=0 -pipe -DBASELIB_INLINE_NAMESPACE=il2cpp_baselib -DIL2CPP_MONO_DEBUGGER_DISABLED -DRUNTIME_IL2CPP -DHAVE_BDWGC_GC -DNDEBUG -I\".\" -I\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/libil2cpp/pch\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/libil2cpp\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/external/baselib/Include\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/external/baselib/Platforms/WebGL/Include\" -o \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/61u3_xtMeshPro4.o\" -Oz -fcolor-diagnostics -fdiagnostics-absolute-paths -UGC_THREADS -UUSE_MMAP -UUSE_MUNMAP -c -xc++ \"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp/Unity.TextMeshPro4.cpp\"",
+      "Inputs": [
+        "C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp/Unity.TextMeshPro4.cpp",
+        "Library/Bee/artifacts/emscripten/zag6a/wrapper_emcc.bat",
+        "Library/Bee/artifacts/emscripten/0eow5/wrapper_emar.bat",
+        "C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/Emscripten/emscripten/emcc.bat"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/61u3_xtMeshPro4.o"
+      ],
+      "ToBuildDependencies": [
+        3,
+        7,
+        8
+      ],
+      "AllowUnexpectedOutput": true,
+      "Env": [
+        {
+          "Key": "EM_CONFIG",
+          "Value": "C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.9f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\BuildTools\\Emscripten\\.emscripten"
+        },
+        {
+          "Key": "EMSDK_PYTHON",
+          "Value": "C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.9f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\BuildTools\\Emscripten\\python\\python.exe"
+        },
+        {
+          "Key": "EMCC_SKIP_SANITY_CHECK",
+          "Value": "1"
+        },
+        {
+          "Key": "EM_FROZEN_CACHE",
+          "Value": "1"
+        }
+      ],
+      "DebugActionIndex": 296,
+      "ScannerIndex": 3
+    },
+    {
+      "Annotation": "C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/rhyr_xtMeshPro5.o",
+      "Action": "\"Library/Bee/artifacts/emscripten/zag6a/wrapper_emcc.bat\" -D__webgl__ -Wno-warn-absolute-paths -Wno-c++11-extensions -Wno-nonportable-include-path -ffunction-sections -fno-unwind-tables -fomit-frame-pointer -fno-threadsafe-statics -std=c++11 -Wno-#warnings -Wswitch -Wno-trigraphs -Wno-tautological-compare -Wno-invalid-offsetof -Wno-implicitly-unsigned-literal -Wno-integer-overflow -Wno-shift-negative-value -Wno-unknown-attributes -Wno-implicit-function-declaration -Wno-null-conversion -Wno-missing-declarations -Wno-unused-value -Wno-pragma-once-outside-header -fvisibility=hidden -fexceptions -fno-rtti -flto -fno-strict-overflow -ffunction-sections -fdata-sections -fmessage-length=0 -pipe -DBASELIB_INLINE_NAMESPACE=il2cpp_baselib -DIL2CPP_MONO_DEBUGGER_DISABLED -DRUNTIME_IL2CPP -DHAVE_BDWGC_GC -DNDEBUG -I\".\" -I\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/libil2cpp/pch\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/libil2cpp\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/external/baselib/Include\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/external/baselib/Platforms/WebGL/Include\" -o \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/rhyr_xtMeshPro5.o\" -Oz -fcolor-diagnostics -fdiagnostics-absolute-paths -UGC_THREADS -UUSE_MMAP -UUSE_MUNMAP -c -xc++ \"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp/Unity.TextMeshPro5.cpp\"",
+      "Inputs": [
+        "C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp/Unity.TextMeshPro5.cpp",
+        "Library/Bee/artifacts/emscripten/zag6a/wrapper_emcc.bat",
+        "Library/Bee/artifacts/emscripten/0eow5/wrapper_emar.bat",
+        "C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/Emscripten/emscripten/emcc.bat"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/rhyr_xtMeshPro5.o"
+      ],
+      "ToBuildDependencies": [
+        3,
+        7,
+        8
+      ],
+      "AllowUnexpectedOutput": true,
+      "Env": [
+        {
+          "Key": "EM_CONFIG",
+          "Value": "C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.9f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\BuildTools\\Emscripten\\.emscripten"
+        },
+        {
+          "Key": "EMSDK_PYTHON",
+          "Value": "C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.9f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\BuildTools\\Emscripten\\python\\python.exe"
+        },
+        {
+          "Key": "EMCC_SKIP_SANITY_CHECK",
+          "Value": "1"
+        },
+        {
+          "Key": "EM_FROZEN_CACHE",
+          "Value": "1"
+        }
+      ],
+      "DebugActionIndex": 297,
+      "ScannerIndex": 3
+    },
+    {
+      "Annotation": "C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/spi8_xtMeshPro6.o",
+      "Action": "\"Library/Bee/artifacts/emscripten/zag6a/wrapper_emcc.bat\" -D__webgl__ -Wno-warn-absolute-paths -Wno-c++11-extensions -Wno-nonportable-include-path -ffunction-sections -fno-unwind-tables -fomit-frame-pointer -fno-threadsafe-statics -std=c++11 -Wno-#warnings -Wswitch -Wno-trigraphs -Wno-tautological-compare -Wno-invalid-offsetof -Wno-implicitly-unsigned-literal -Wno-integer-overflow -Wno-shift-negative-value -Wno-unknown-attributes -Wno-implicit-function-declaration -Wno-null-conversion -Wno-missing-declarations -Wno-unused-value -Wno-pragma-once-outside-header -fvisibility=hidden -fexceptions -fno-rtti -flto -fno-strict-overflow -ffunction-sections -fdata-sections -fmessage-length=0 -pipe -DBASELIB_INLINE_NAMESPACE=il2cpp_baselib -DIL2CPP_MONO_DEBUGGER_DISABLED -DRUNTIME_IL2CPP -DHAVE_BDWGC_GC -DNDEBUG -I\".\" -I\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/libil2cpp/pch\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/libil2cpp\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/external/baselib/Include\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/external/baselib/Platforms/WebGL/Include\" -o \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/spi8_xtMeshPro6.o\" -Oz -fcolor-diagnostics -fdiagnostics-absolute-paths -UGC_THREADS -UUSE_MMAP -UUSE_MUNMAP -c -xc++ \"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp/Unity.TextMeshPro6.cpp\"",
+      "Inputs": [
+        "C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp/Unity.TextMeshPro6.cpp",
+        "Library/Bee/artifacts/emscripten/zag6a/wrapper_emcc.bat",
+        "Library/Bee/artifacts/emscripten/0eow5/wrapper_emar.bat",
+        "C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/Emscripten/emscripten/emcc.bat"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/spi8_xtMeshPro6.o"
+      ],
+      "ToBuildDependencies": [
+        3,
+        7,
+        8
+      ],
+      "AllowUnexpectedOutput": true,
+      "Env": [
+        {
+          "Key": "EM_CONFIG",
+          "Value": "C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.9f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\BuildTools\\Emscripten\\.emscripten"
+        },
+        {
+          "Key": "EMSDK_PYTHON",
+          "Value": "C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.9f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\BuildTools\\Emscripten\\python\\python.exe"
+        },
+        {
+          "Key": "EMCC_SKIP_SANITY_CHECK",
+          "Value": "1"
+        },
+        {
+          "Key": "EM_FROZEN_CACHE",
+          "Value": "1"
+        }
+      ],
+      "DebugActionIndex": 298,
       "ScannerIndex": 3
     },
     {
@@ -10599,7 +11045,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 288,
+      "DebugActionIndex": 299,
       "ScannerIndex": 3
     },
     {
@@ -10638,7 +11084,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 289,
+      "DebugActionIndex": 300,
       "ScannerIndex": 3
     },
     {
@@ -10677,7 +11123,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 290,
+      "DebugActionIndex": 301,
       "ScannerIndex": 3
     },
     {
@@ -10716,7 +11162,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 291,
+      "DebugActionIndex": 302,
       "ScannerIndex": 3
     },
     {
@@ -10755,7 +11201,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 292,
+      "DebugActionIndex": 303,
       "ScannerIndex": 3
     },
     {
@@ -10794,7 +11240,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 293,
+      "DebugActionIndex": 304,
       "ScannerIndex": 3
     },
     {
@@ -10833,7 +11279,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 294,
+      "DebugActionIndex": 305,
       "ScannerIndex": 3
     },
     {
@@ -10872,7 +11318,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 295,
+      "DebugActionIndex": 306,
       "ScannerIndex": 3
     },
     {
@@ -10911,7 +11357,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 296,
+      "DebugActionIndex": 307,
       "ScannerIndex": 3
     },
     {
@@ -10950,7 +11396,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 297,
+      "DebugActionIndex": 308,
       "ScannerIndex": 3
     },
     {
@@ -10989,7 +11435,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 298,
+      "DebugActionIndex": 309,
       "ScannerIndex": 3
     },
     {
@@ -11028,7 +11474,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 299,
+      "DebugActionIndex": 310,
       "ScannerIndex": 3
     },
     {
@@ -11067,7 +11513,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 300,
+      "DebugActionIndex": 311,
       "ScannerIndex": 3
     },
     {
@@ -11106,7 +11552,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 301,
+      "DebugActionIndex": 312,
       "ScannerIndex": 3
     },
     {
@@ -11145,7 +11591,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 302,
+      "DebugActionIndex": 313,
       "ScannerIndex": 3
     },
     {
@@ -11184,7 +11630,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 303,
+      "DebugActionIndex": 314,
       "ScannerIndex": 3
     },
     {
@@ -11223,7 +11669,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 304,
+      "DebugActionIndex": 315,
       "ScannerIndex": 3
     },
     {
@@ -11262,7 +11708,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 305,
+      "DebugActionIndex": 316,
       "ScannerIndex": 3
     },
     {
@@ -11301,7 +11747,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 306,
+      "DebugActionIndex": 317,
       "ScannerIndex": 3
     },
     {
@@ -11340,7 +11786,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 307,
+      "DebugActionIndex": 318,
       "ScannerIndex": 3
     },
     {
@@ -11379,7 +11825,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 308,
+      "DebugActionIndex": 319,
       "ScannerIndex": 3
     },
     {
@@ -11418,7 +11864,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 309,
+      "DebugActionIndex": 320,
       "ScannerIndex": 3
     },
     {
@@ -11457,7 +11903,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 310,
+      "DebugActionIndex": 321,
       "ScannerIndex": 3
     },
     {
@@ -11496,7 +11942,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 311,
+      "DebugActionIndex": 322,
       "ScannerIndex": 3
     },
     {
@@ -11535,7 +11981,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 312,
+      "DebugActionIndex": 323,
       "ScannerIndex": 3
     },
     {
@@ -11574,7 +12020,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 313,
+      "DebugActionIndex": 324,
       "ScannerIndex": 3
     },
     {
@@ -11613,7 +12059,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 314,
+      "DebugActionIndex": 325,
       "ScannerIndex": 3
     },
     {
@@ -11652,7 +12098,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 315,
+      "DebugActionIndex": 326,
       "ScannerIndex": 3
     },
     {
@@ -11691,7 +12137,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 316,
+      "DebugActionIndex": 327,
       "ScannerIndex": 3
     },
     {
@@ -11730,7 +12176,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 317,
+      "DebugActionIndex": 328,
       "ScannerIndex": 3
     },
     {
@@ -11769,7 +12215,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 318,
+      "DebugActionIndex": 329,
       "ScannerIndex": 3
     },
     {
@@ -11808,7 +12254,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 319,
+      "DebugActionIndex": 330,
       "ScannerIndex": 3
     },
     {
@@ -11847,7 +12293,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 320,
+      "DebugActionIndex": 331,
       "ScannerIndex": 3
     },
     {
@@ -11886,7 +12332,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 321,
+      "DebugActionIndex": 332,
       "ScannerIndex": 3
     },
     {
@@ -11925,7 +12371,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 322,
+      "DebugActionIndex": 333,
       "ScannerIndex": 3
     },
     {
@@ -11964,7 +12410,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 323,
+      "DebugActionIndex": 334,
       "ScannerIndex": 3
     },
     {
@@ -12003,7 +12449,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 324,
+      "DebugActionIndex": 335,
       "ScannerIndex": 3
     },
     {
@@ -12042,7 +12488,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 325,
+      "DebugActionIndex": 336,
       "ScannerIndex": 3
     },
     {
@@ -12081,7 +12527,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 326,
+      "DebugActionIndex": 337,
       "ScannerIndex": 3
     },
     {
@@ -12120,7 +12566,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 327,
+      "DebugActionIndex": 338,
       "ScannerIndex": 3
     },
     {
@@ -12159,7 +12605,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 328,
+      "DebugActionIndex": 339,
       "ScannerIndex": 3
     },
     {
@@ -12198,7 +12644,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 329,
+      "DebugActionIndex": 340,
       "ScannerIndex": 3
     },
     {
@@ -12237,7 +12683,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 330,
+      "DebugActionIndex": 341,
       "ScannerIndex": 3
     },
     {
@@ -12276,7 +12722,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 331,
+      "DebugActionIndex": 342,
       "ScannerIndex": 3
     },
     {
@@ -12315,7 +12761,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 332,
+      "DebugActionIndex": 343,
       "ScannerIndex": 3
     },
     {
@@ -12354,7 +12800,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 333,
+      "DebugActionIndex": 344,
       "ScannerIndex": 3
     },
     {
@@ -12393,7 +12839,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 334,
+      "DebugActionIndex": 345,
       "ScannerIndex": 3
     },
     {
@@ -12432,7 +12878,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 335,
+      "DebugActionIndex": 346,
       "ScannerIndex": 3
     },
     {
@@ -12471,7 +12917,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 336,
+      "DebugActionIndex": 347,
       "ScannerIndex": 3
     },
     {
@@ -12510,7 +12956,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 337,
+      "DebugActionIndex": 348,
       "ScannerIndex": 3
     },
     {
@@ -12549,7 +12995,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 338,
+      "DebugActionIndex": 349,
       "ScannerIndex": 3
     },
     {
@@ -12588,7 +13034,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 339,
+      "DebugActionIndex": 350,
       "ScannerIndex": 3
     },
     {
@@ -12627,7 +13073,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 340,
+      "DebugActionIndex": 351,
       "ScannerIndex": 3
     },
     {
@@ -12666,7 +13112,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 341,
+      "DebugActionIndex": 352,
       "ScannerIndex": 3
     },
     {
@@ -12705,7 +13151,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 342,
+      "DebugActionIndex": 353,
       "ScannerIndex": 3
     },
     {
@@ -12744,7 +13190,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 343,
+      "DebugActionIndex": 354,
       "ScannerIndex": 3
     },
     {
@@ -12783,7 +13229,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 344,
+      "DebugActionIndex": 355,
       "ScannerIndex": 3
     },
     {
@@ -12822,7 +13268,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 345,
+      "DebugActionIndex": 356,
       "ScannerIndex": 3
     },
     {
@@ -12861,7 +13307,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 346,
+      "DebugActionIndex": 357,
       "ScannerIndex": 3
     },
     {
@@ -12900,7 +13346,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 347,
+      "DebugActionIndex": 358,
       "ScannerIndex": 3
     },
     {
@@ -12939,7 +13385,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 348,
+      "DebugActionIndex": 359,
       "ScannerIndex": 3
     },
     {
@@ -12978,7 +13424,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 349,
+      "DebugActionIndex": 360,
       "ScannerIndex": 3
     },
     {
@@ -13017,7 +13463,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 350,
+      "DebugActionIndex": 361,
       "ScannerIndex": 3
     },
     {
@@ -13056,7 +13502,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 351,
+      "DebugActionIndex": 362,
       "ScannerIndex": 3
     },
     {
@@ -13095,7 +13541,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 352,
+      "DebugActionIndex": 363,
       "ScannerIndex": 3
     },
     {
@@ -13134,7 +13580,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 353,
+      "DebugActionIndex": 364,
       "ScannerIndex": 3
     },
     {
@@ -13173,7 +13619,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 354,
+      "DebugActionIndex": 365,
       "ScannerIndex": 3
     },
     {
@@ -13212,7 +13658,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 355,
+      "DebugActionIndex": 366,
       "ScannerIndex": 3
     },
     {
@@ -13251,7 +13697,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 356,
+      "DebugActionIndex": 367,
       "ScannerIndex": 3
     },
     {
@@ -13290,7 +13736,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 357,
+      "DebugActionIndex": 368,
       "ScannerIndex": 3
     },
     {
@@ -13329,7 +13775,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 358,
+      "DebugActionIndex": 369,
       "ScannerIndex": 3
     },
     {
@@ -13368,7 +13814,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 359,
+      "DebugActionIndex": 370,
       "ScannerIndex": 3
     },
     {
@@ -13407,7 +13853,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 360,
+      "DebugActionIndex": 371,
       "ScannerIndex": 3
     },
     {
@@ -13446,7 +13892,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 361,
+      "DebugActionIndex": 372,
       "ScannerIndex": 3
     },
     {
@@ -13485,7 +13931,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 362,
+      "DebugActionIndex": 373,
       "ScannerIndex": 3
     },
     {
@@ -13524,7 +13970,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 363,
+      "DebugActionIndex": 374,
       "ScannerIndex": 3
     },
     {
@@ -13563,7 +14009,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 364,
+      "DebugActionIndex": 375,
       "ScannerIndex": 3
     },
     {
@@ -13602,7 +14048,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 365,
+      "DebugActionIndex": 376,
       "ScannerIndex": 3
     },
     {
@@ -13641,7 +14087,46 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 366,
+      "DebugActionIndex": 377,
+      "ScannerIndex": 3
+    },
+    {
+      "Annotation": "C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/f13r_me_CodeGen.o",
+      "Action": "\"Library/Bee/artifacts/emscripten/zag6a/wrapper_emcc.bat\" -D__webgl__ -Wno-warn-absolute-paths -Wno-c++11-extensions -Wno-nonportable-include-path -ffunction-sections -fno-unwind-tables -fomit-frame-pointer -Wno-#warnings -Wswitch -Wno-trigraphs -Wno-tautological-compare -Wno-invalid-offsetof -Wno-implicitly-unsigned-literal -Wno-integer-overflow -Wno-shift-negative-value -Wno-unknown-attributes -Wno-implicit-function-declaration -Wno-null-conversion -Wno-missing-declarations -Wno-unused-value -Wno-pragma-once-outside-header -fvisibility=hidden -fexceptions -flto -fno-strict-overflow -ffunction-sections -fdata-sections -fmessage-length=0 -pipe -DBASELIB_INLINE_NAMESPACE=il2cpp_baselib -DIL2CPP_MONO_DEBUGGER_DISABLED -DRUNTIME_IL2CPP -DHAVE_BDWGC_GC -DNDEBUG -I\".\" -I\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/libil2cpp/pch\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/libil2cpp\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/external/baselib/Include\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/external/baselib/Platforms/WebGL/Include\" -o \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/f13r_me_CodeGen.o\" -Oz -fcolor-diagnostics -fdiagnostics-absolute-paths -UGC_THREADS -UUSE_MMAP -UUSE_MUNMAP -c -xc \"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp/Tilia.Interactions.SnapZone.Unity.Runtime_CodeGen.c\"",
+      "Inputs": [
+        "C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp/Tilia.Interactions.SnapZone.Unity.Runtime_CodeGen.c",
+        "Library/Bee/artifacts/emscripten/zag6a/wrapper_emcc.bat",
+        "Library/Bee/artifacts/emscripten/0eow5/wrapper_emar.bat",
+        "C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/Emscripten/emscripten/emcc.bat"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/f13r_me_CodeGen.o"
+      ],
+      "ToBuildDependencies": [
+        3,
+        7,
+        8
+      ],
+      "AllowUnexpectedOutput": true,
+      "Env": [
+        {
+          "Key": "EM_CONFIG",
+          "Value": "C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.9f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\BuildTools\\Emscripten\\.emscripten"
+        },
+        {
+          "Key": "EMSDK_PYTHON",
+          "Value": "C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.9f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\BuildTools\\Emscripten\\python\\python.exe"
+        },
+        {
+          "Key": "EMCC_SKIP_SANITY_CHECK",
+          "Value": "1"
+        },
+        {
+          "Key": "EM_FROZEN_CACHE",
+          "Value": "1"
+        }
+      ],
+      "DebugActionIndex": 378,
       "ScannerIndex": 3
     },
     {
@@ -13680,7 +14165,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 367,
+      "DebugActionIndex": 379,
       "ScannerIndex": 3
     },
     {
@@ -13719,7 +14204,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 368,
+      "DebugActionIndex": 380,
       "ScannerIndex": 3
     },
     {
@@ -13758,7 +14243,46 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 369,
+      "DebugActionIndex": 381,
+      "ScannerIndex": 3
+    },
+    {
+      "Annotation": "C_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/g68q_ro_CodeGen.o",
+      "Action": "\"Library/Bee/artifacts/emscripten/zag6a/wrapper_emcc.bat\" -D__webgl__ -Wno-warn-absolute-paths -Wno-c++11-extensions -Wno-nonportable-include-path -ffunction-sections -fno-unwind-tables -fomit-frame-pointer -Wno-#warnings -Wswitch -Wno-trigraphs -Wno-tautological-compare -Wno-invalid-offsetof -Wno-implicitly-unsigned-literal -Wno-integer-overflow -Wno-shift-negative-value -Wno-unknown-attributes -Wno-implicit-function-declaration -Wno-null-conversion -Wno-missing-declarations -Wno-unused-value -Wno-pragma-once-outside-header -fvisibility=hidden -fexceptions -flto -fno-strict-overflow -ffunction-sections -fdata-sections -fmessage-length=0 -pipe -DBASELIB_INLINE_NAMESPACE=il2cpp_baselib -DIL2CPP_MONO_DEBUGGER_DISABLED -DRUNTIME_IL2CPP -DHAVE_BDWGC_GC -DNDEBUG -I\".\" -I\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/libil2cpp/pch\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/libil2cpp\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/external/baselib/Include\" -I\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/il2cpp/external/baselib/Platforms/WebGL/Include\" -o \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/g68q_ro_CodeGen.o\" -Oz -fcolor-diagnostics -fdiagnostics-absolute-paths -UGC_THREADS -UUSE_MMAP -UUSE_MUNMAP -c -xc \"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp/Unity.TextMeshPro_CodeGen.c\"",
+      "Inputs": [
+        "C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/cpp/Unity.TextMeshPro_CodeGen.c",
+        "Library/Bee/artifacts/emscripten/zag6a/wrapper_emcc.bat",
+        "Library/Bee/artifacts/emscripten/0eow5/wrapper_emar.bat",
+        "C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/Emscripten/emscripten/emcc.bat"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/g68q_ro_CodeGen.o"
+      ],
+      "ToBuildDependencies": [
+        3,
+        7,
+        8
+      ],
+      "AllowUnexpectedOutput": true,
+      "Env": [
+        {
+          "Key": "EM_CONFIG",
+          "Value": "C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.9f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\BuildTools\\Emscripten\\.emscripten"
+        },
+        {
+          "Key": "EMSDK_PYTHON",
+          "Value": "C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.9f1\\Editor\\Data\\PlaybackEngines\\WebGLSupport\\BuildTools\\Emscripten\\python\\python.exe"
+        },
+        {
+          "Key": "EMCC_SKIP_SANITY_CHECK",
+          "Value": "1"
+        },
+        {
+          "Key": "EM_FROZEN_CACHE",
+          "Value": "1"
+        }
+      ],
+      "DebugActionIndex": 382,
       "ScannerIndex": 3
     },
     {
@@ -13797,7 +14321,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 370,
+      "DebugActionIndex": 383,
       "ScannerIndex": 3
     },
     {
@@ -13836,7 +14360,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 371,
+      "DebugActionIndex": 384,
       "ScannerIndex": 3
     },
     {
@@ -13875,7 +14399,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 372,
+      "DebugActionIndex": 385,
       "ScannerIndex": 3
     },
     {
@@ -13914,7 +14438,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 373,
+      "DebugActionIndex": 386,
       "ScannerIndex": 3
     },
     {
@@ -13953,7 +14477,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 374,
+      "DebugActionIndex": 387,
       "ScannerIndex": 3
     },
     {
@@ -13992,7 +14516,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 375,
+      "DebugActionIndex": 388,
       "ScannerIndex": 3
     },
     {
@@ -14031,7 +14555,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 376,
+      "DebugActionIndex": 389,
       "ScannerIndex": 3
     },
     {
@@ -14070,7 +14594,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 377,
+      "DebugActionIndex": 390,
       "ScannerIndex": 3
     },
     {
@@ -14109,7 +14633,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 378,
+      "DebugActionIndex": 391,
       "ScannerIndex": 3
     },
     {
@@ -14148,7 +14672,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 379,
+      "DebugActionIndex": 392,
       "ScannerIndex": 3
     },
     {
@@ -14187,7 +14711,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 380,
+      "DebugActionIndex": 393,
       "ScannerIndex": 3
     },
     {
@@ -14226,7 +14750,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 381,
+      "DebugActionIndex": 394,
       "ScannerIndex": 3
     },
     {
@@ -14265,7 +14789,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 382,
+      "DebugActionIndex": 395,
       "ScannerIndex": 3
     },
     {
@@ -14304,7 +14828,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 383,
+      "DebugActionIndex": 396,
       "ScannerIndex": 3
     },
     {
@@ -14343,7 +14867,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 384,
+      "DebugActionIndex": 397,
       "ScannerIndex": 3
     },
     {
@@ -14382,7 +14906,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 385,
+      "DebugActionIndex": 398,
       "ScannerIndex": 3
     },
     {
@@ -14421,7 +14945,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 386,
+      "DebugActionIndex": 399,
       "ScannerIndex": 3
     },
     {
@@ -14460,7 +14984,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 387,
+      "DebugActionIndex": 400,
       "ScannerIndex": 3
     },
     {
@@ -14499,7 +15023,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 388,
+      "DebugActionIndex": 401,
       "ScannerIndex": 3
     },
     {
@@ -14538,7 +15062,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 389,
+      "DebugActionIndex": 402,
       "ScannerIndex": 3
     },
     {
@@ -14577,7 +15101,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 390,
+      "DebugActionIndex": 403,
       "ScannerIndex": 3
     },
     {
@@ -14616,7 +15140,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 391,
+      "DebugActionIndex": 404,
       "ScannerIndex": 3
     },
     {
@@ -14655,7 +15179,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 392,
+      "DebugActionIndex": 405,
       "ScannerIndex": 3
     },
     {
@@ -14694,7 +15218,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 393,
+      "DebugActionIndex": 406,
       "ScannerIndex": 3
     },
     {
@@ -14733,7 +15257,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 394,
+      "DebugActionIndex": 407,
       "ScannerIndex": 3
     },
     {
@@ -14772,7 +15296,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 395,
+      "DebugActionIndex": 408,
       "ScannerIndex": 3
     },
     {
@@ -14811,7 +15335,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 396,
+      "DebugActionIndex": 409,
       "ScannerIndex": 3
     },
     {
@@ -14850,7 +15374,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 397,
+      "DebugActionIndex": 410,
       "ScannerIndex": 3
     },
     {
@@ -14889,7 +15413,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 398,
+      "DebugActionIndex": 411,
       "ScannerIndex": 3
     },
     {
@@ -14928,7 +15452,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 399,
+      "DebugActionIndex": 412,
       "ScannerIndex": 3
     },
     {
@@ -14967,7 +15491,7 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 400,
+      "DebugActionIndex": 413,
       "ScannerIndex": 3
     },
     {
@@ -15006,19 +15530,19 @@
           "Value": "1"
         }
       ],
-      "DebugActionIndex": 401,
+      "DebugActionIndex": 414,
       "ScannerIndex": 3
     },
     {
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/5362588684057008505.rsp",
       "ActionType": "WriteTextFile",
-      "WriteTextFilePayload": "qcL \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/GameAssembly.bc\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/f85z_ricMethods.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/0jk3_icMethods1.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/lznr_icMethods2.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/m777_icMethods3.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/7mbw_icMethods4.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/8uvc_icMethods5.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/taz0_icMethods6.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/4e2d_Generics.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/n2i6_Generics1.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/b1nt_Generics10.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/wgrh_Generics11.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/xoby_Generics12.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/i4em_Generics13.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/3jia_Generics14.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/4r2q_Generics15.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/p75e_Generics16.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/qfqv_Generics17.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/bvtj_Generics18.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/wax7_Generics19.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/8hmu_Generics2.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/i3nc_Generics20.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/jb8s_Generics21.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/4qbh_Generics22.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/p6e5_Generics23.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/qezl_Generics24.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/bu29_Generics25.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/w95x_Generics26.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/xhqe_Generics27.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/ixt2_Generics28.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/j5dj_Generics29.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/9p6a_Generics3.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/5x4n_Generics30.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/qd8b_Generics31.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/u59y_Generics4.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/vduf_Generics5.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/gtx3_Generics6.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/180r_Generics7.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/2gl8_Generics8.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/nwow_Generics9.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/jvq2_ieldValues.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/81vu_eldValues1.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/va0x_TypeValues.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/yuqg_aluesTable.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/0l8z_aluesTable.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/u0of_gistration.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/3i6p_pDataTable.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/wvdu_vokerTable.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/tvrq_apperTable.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/lwbo_o.Security.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/hyor_mscorlib.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/yt3c_mscorlib1.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/ktcu_mscorlib10.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/l1wa_mscorlib11.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/6g0y_mscorlib12.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/7okf_mscorlib13.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/s4n3_mscorlib14.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/dkrr_mscorlib15.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/esb8_mscorlib16.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/z7ew_mscorlib17.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/j960_mscorlib2.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/4oap_mscorlib3.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/5wu5_mscorlib4.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/qcyt_mscorlib5.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/rkia_mscorlib6.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/c0ly_mscorlib7.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/xfpm_mscorlib8.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/yn92_mscorlib9.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/jela_figuration.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/w6af_ystem.Core.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/zk11_System.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/soiy_System.Xml.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/gz2l_System1.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/1e69_System2.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/09ss_ty.Runtime.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/7ke2_ty.Runtime.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/kn5g_ty.Runtime.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/l3ft_ty.Runtime.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/ur5p_ty.Runtime.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/jn1b_ty.Runtime.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/5301_ty.Runtime.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/xdvx_gistration.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/4os6_Management.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/bdah_e.AIModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/zg6z_tionModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/9e13_udioModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/6ftn_CoreModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/110w_oreModule1.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/mh4k_oreModule2.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/pi33_nityEngine.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/1i6u_GridModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/qfah_MGUIModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/50qe_GUIModule1.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/utr9_gacyModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/tztw_nputModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/ztfq_lizeModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/oslc_cs2DModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/y1n7_sicsModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/c1y3_nalsModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/6133_alTracking.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/v3iq_hapeModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/7cio_temsModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/or5h_gineModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/epsy_gineModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/x7zm_ineModule1.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/yfk3_ineModule2.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/jvnr_ineModule3.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/admn_ringModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/tk5w_emapModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/fsfe_yEngine.UI.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/0fro_Engine.UI1.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/lvuc_Engine.UI2.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/m3et_Engine.UI3.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/ux37_entsModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/9cq5_ntsModule1.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/99ah_tsModule10.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/upe5_tsModule11.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/vxyl_tsModule12.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/ustt_ntsModule2.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/f8wh_ntsModule3.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/gghy_ntsModule4.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/1vkm_ntsModule5.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/2342_ntsModule6.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/nj8q_ntsModule7.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/8ybf_ntsModule8.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/96vv_ntsModule9.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/1xyv_tiveModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/vjuf_e.UIModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/z4up_e.VRModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/xwev_e.XRModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/tdve_lCallStubs.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/0p5z_WebXR.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/tsk5_es.Scripts.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/y70w_XRAssembly.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/1016_ia.Runtime.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/q8fj_a.Runtime1.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/rg0z_a.Runtime2.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/pogo__Generated.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/ovme_gistration.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/rye1_gistration.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/jvzg_ThunkTable.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/rqx8_ClassTable.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/j2ud_efinitions.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/0z3k_efinitions.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/327m_interTable.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/69i1_ethodTable.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/4mfw_gistration.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/8rl7_adataUsage.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/g5hg_RgctxTable.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/88u6_efinitions.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/tbkh_ty_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/9k0l_ib_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/ni24_on_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/ssqf_re_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/wkj6_ml_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/j1e2_em_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/ol37_me_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/btmc_me_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/sm78_me_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/922d_me_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/adun_me_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/b221_me_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/hmek_me_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/xuj6_on_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/gn01_nt_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/fhbp_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/f6j7_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/l50w_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/e3xa_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/xoru_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/i6a3_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/e2sv_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/559i_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/j22y_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/o19t_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/i2il_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/4j1k_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/2z8k_ng_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/fse6_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/r11y_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/cv9c_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/67ue_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/qi6c_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/52u8_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/6ju4_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/t4di_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/79x4_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/nnwj_UI_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/7vkp_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/ta2r_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/lkl8_ne_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/5e5f_ts_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/mfge_ly_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/sklz_XR_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/154m_me_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/1at6_ed_CodeGen.o\" \"Library/Bee/artifacts/WebGL/bdwgc/master_WebGL_wasm/t9v6_gc.o\" \"Library/Bee/artifacts/WebGL/bdwgc/master_WebGL_wasm/ys3b_al_handler.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/08n6_opy_encode.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/0brl_j_vm6.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/0yn8_stem0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/17i4_derFactory.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/1ljw_in320.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/1o5g_ceProvider.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/1vsq_stem1.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/2cjr_j_vm0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/2cl6_encode.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/2fh1_osix0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/2k0q_decode.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/2uwq_2cpp0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/2w4u_-api0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/44te_in321.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/48ey_Pool0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/4e38_stem2.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/4gaq_stem0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/4saj_temWatcher.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/574h_Dns.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/5ffd_-api1.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/5vt9_j_vm1.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/5zbx_inRT0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/6t6f_utf8_util.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/764s_Mono0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/76a5_huffman.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/7ih4_stem0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/7n4w_in322.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/7ren_time0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/8e3x_tils0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/8e4r_j_vm2.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/8imf_inRT1.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/8st9_Evidence.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/8ypv_-api2.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/945s_ersistence.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/99x1_memory.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/9g8f_bit_reader.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/9ga0_dictionary.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/9kcj_bit_stream.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/a2d0_oryMapImpl.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/a5kn_osix4.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/a7ef_in323.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/amwh_UnityTls.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/ayam_ests1.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/azhy_stem0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/bap0_stem0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/bydg_tils1.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/c16t_eric1.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/c2ic_cketBridge.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/c4r9_data1.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/cmj5_Interop.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/cubb_erences_hq.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/de1t_tatic_dict.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/dhl4_ests2.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/dq41_onary_hash.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/dzzt_stem2.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/ec1w_iveMethods.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/ehoy_tils2.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/ekp5__OSX0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/fn2r_data2.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/g0vm_ests3.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/ggas_Properties.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/giac_stem3.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/gq2m_iveMethods.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/hiyj_nterlocked.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/i5jr_t_two_pass.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/iqis_tils0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/j00w_imeImports.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/jdfi_yPAL0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/jfpt_ThreadImpl.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/ji15_Semaphore.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/kh3h_cluster.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/l5v6_rity0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/ln3j_Context.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/lr8b_osix1.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/lscl_stem0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/lwsa_umin0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/m797_osixHelper.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/mi35_RealProxy.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/mjiu_histogram.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/n1ml_egen0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/nqgw_ningHelper.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/nwq1_state.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/nwuk_roid0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/o0bn_.Net0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/oaju_osix2.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/p285_sEmulation.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/pls4_teral_cost.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/r0kc_s_fragment.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/r4x0_stem0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/r560_i-debugger.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/rah6_-api3.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/rmjb_ests0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/rqv2_j_vm3.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/rttc_osix3.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/s79s_x_gc0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/ti6p_in324.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/tptq_Initialize.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/ts0y_data0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/tt5z_imeHelpers.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/u57k_references.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/u95k_j_vm4.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/ug5q_onServices.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/umpq_metablock.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/un8i_stem1.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/vcy4_eric2.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/vk3h_ngServices.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/vkal_x_os0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/xqyv_k_splitter.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/xsg3_j_vm5.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/y3k3_x_os1.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/yci8_stem0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/z72s_stem0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/z8uu_ting0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/zf90_bit_cost.o\" \"Library/Bee/artifacts/WebGL/zlib/master_WebGL_wasm/17pz_inffast.o\" \"Library/Bee/artifacts/WebGL/zlib/master_WebGL_wasm/883p_infback.o\" \"Library/Bee/artifacts/WebGL/zlib/master_WebGL_wasm/89j7_zutil.o\" \"Library/Bee/artifacts/WebGL/zlib/master_WebGL_wasm/ap9b_inftrees.o\" \"Library/Bee/artifacts/WebGL/zlib/master_WebGL_wasm/axmm_uncompr.o\" \"Library/Bee/artifacts/WebGL/zlib/master_WebGL_wasm/d7fr_gzclose.o\" \"Library/Bee/artifacts/WebGL/zlib/master_WebGL_wasm/dvv5_trees.o\" \"Library/Bee/artifacts/WebGL/zlib/master_WebGL_wasm/gkgx_gzwrite.o\" \"Library/Bee/artifacts/WebGL/zlib/master_WebGL_wasm/lp3o_adler32.o\" \"Library/Bee/artifacts/WebGL/zlib/master_WebGL_wasm/mggh_gzlib.o\" \"Library/Bee/artifacts/WebGL/zlib/master_WebGL_wasm/n1z3_inflate.o\" \"Library/Bee/artifacts/WebGL/zlib/master_WebGL_wasm/nzd1_gzread.o\" \"Library/Bee/artifacts/WebGL/zlib/master_WebGL_wasm/rhvl_deflate.o\" \"Library/Bee/artifacts/WebGL/zlib/master_WebGL_wasm/z147_crc32.o\" \"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/PlaybackEngines/WebGLSupport/Variations/development/baselib.bc\"",
+      "WriteTextFilePayload": "qcL \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/GameAssembly.bc\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/f85z_ricMethods.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/0jk3_icMethods1.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/lznr_icMethods2.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/m777_icMethods3.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/7mbw_icMethods4.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/8uvc_icMethods5.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/taz0_icMethods6.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/eq2o_icMethods7.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/4e2d_Generics.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/n2i6_Generics1.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/b1nt_Generics10.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/wgrh_Generics11.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/xoby_Generics12.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/i4em_Generics13.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/3jia_Generics14.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/4r2q_Generics15.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/p75e_Generics16.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/qfqv_Generics17.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/bvtj_Generics18.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/wax7_Generics19.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/8hmu_Generics2.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/i3nc_Generics20.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/jb8s_Generics21.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/4qbh_Generics22.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/p6e5_Generics23.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/qezl_Generics24.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/bu29_Generics25.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/w95x_Generics26.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/xhqe_Generics27.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/ixt2_Generics28.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/j5dj_Generics29.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/9p6a_Generics3.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/5x4n_Generics30.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/qd8b_Generics31.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/btb0_Generics32.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/c1vg_Generics33.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/u59y_Generics4.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/vduf_Generics5.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/gtx3_Generics6.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/180r_Generics7.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/2gl8_Generics8.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/nwow_Generics9.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/jvq2_ieldValues.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/81vu_eldValues1.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/va0x_TypeValues.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/yuqg_aluesTable.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/0l8z_aluesTable.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/u0of_gistration.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/3i6p_pDataTable.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/wvdu_vokerTable.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/tvrq_apperTable.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/lwbo_o.Security.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/hyor_mscorlib.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/yt3c_mscorlib1.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/ktcu_mscorlib10.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/l1wa_mscorlib11.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/6g0y_mscorlib12.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/7okf_mscorlib13.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/s4n3_mscorlib14.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/dkrr_mscorlib15.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/esb8_mscorlib16.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/z7ew_mscorlib17.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/j960_mscorlib2.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/4oap_mscorlib3.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/5wu5_mscorlib4.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/qcyt_mscorlib5.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/rkia_mscorlib6.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/c0ly_mscorlib7.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/xfpm_mscorlib8.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/yn92_mscorlib9.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/jela_figuration.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/w6af_ystem.Core.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/zk11_System.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/soiy_System.Xml.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/gz2l_System1.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/1e69_System2.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/09ss_ty.Runtime.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/7ke2_ty.Runtime.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/kn5g_ty.Runtime.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/l3ft_ty.Runtime.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/ur5p_ty.Runtime.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/3aof_ty.Runtime.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/jn1b_ty.Runtime.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/5301_ty.Runtime.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/xdvx_gistration.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/cmlp_extMeshPro.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/zy3a_xtMeshPro1.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/ke7y_xtMeshPro2.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/lmrf_xtMeshPro3.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/61u3_xtMeshPro4.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/rhyr_xtMeshPro5.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/spi8_xtMeshPro6.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/4os6_Management.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/bdah_e.AIModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/zg6z_tionModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/9e13_udioModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/6ftn_CoreModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/110w_oreModule1.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/mh4k_oreModule2.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/pi33_nityEngine.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/1i6u_GridModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/qfah_MGUIModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/50qe_GUIModule1.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/utr9_gacyModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/tztw_nputModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/ztfq_lizeModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/oslc_cs2DModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/y1n7_sicsModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/c1y3_nalsModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/6133_alTracking.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/v3iq_hapeModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/7cio_temsModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/or5h_gineModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/epsy_gineModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/x7zm_ineModule1.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/yfk3_ineModule2.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/jvnr_ineModule3.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/admn_ringModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/tk5w_emapModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/fsfe_yEngine.UI.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/0fro_Engine.UI1.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/lvuc_Engine.UI2.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/m3et_Engine.UI3.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/ux37_entsModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/9cq5_ntsModule1.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/99ah_tsModule10.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/upe5_tsModule11.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/vxyl_tsModule12.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/ustt_ntsModule2.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/f8wh_ntsModule3.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/gghy_ntsModule4.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/1vkm_ntsModule5.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/2342_ntsModule6.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/nj8q_ntsModule7.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/8ybf_ntsModule8.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/96vv_ntsModule9.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/1xyv_tiveModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/vjuf_e.UIModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/z4up_e.VRModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/xwev_e.XRModule.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/tdve_lCallStubs.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/0p5z_WebXR.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/tsk5_es.Scripts.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/y70w_XRAssembly.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/1016_ia.Runtime.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/q8fj_a.Runtime1.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/rg0z_a.Runtime2.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/pogo__Generated.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/ovme_gistration.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/rye1_gistration.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/jvzg_ThunkTable.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/rqx8_ClassTable.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/j2ud_efinitions.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/0z3k_efinitions.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/327m_interTable.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/69i1_ethodTable.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/4mfw_gistration.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/8rl7_adataUsage.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/g5hg_RgctxTable.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/88u6_efinitions.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/tbkh_ty_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/9k0l_ib_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/ni24_on_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/ssqf_re_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/wkj6_ml_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/j1e2_em_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/ol37_me_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/btmc_me_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/sm78_me_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/922d_me_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/adun_me_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/f13r_me_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/b221_me_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/hmek_me_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/xuj6_on_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/g68q_ro_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/gn01_nt_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/fhbp_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/f6j7_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/l50w_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/e3xa_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/xoru_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/i6a3_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/e2sv_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/559i_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/j22y_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/o19t_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/i2il_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/4j1k_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/2z8k_ng_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/fse6_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/r11y_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/cv9c_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/67ue_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/qi6c_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/52u8_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/6ju4_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/t4di_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/79x4_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/nnwj_UI_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/7vkp_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/ta2r_le_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/lkl8_ne_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/5e5f_ts_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/mfge_ly_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/sklz_XR_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/154m_me_CodeGen.o\" \"Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/1at6_ed_CodeGen.o\" \"Library/Bee/artifacts/WebGL/bdwgc/master_WebGL_wasm/t9v6_gc.o\" \"Library/Bee/artifacts/WebGL/bdwgc/master_WebGL_wasm/ys3b_al_handler.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/08n6_opy_encode.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/0brl_j_vm6.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/0yn8_stem0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/17i4_derFactory.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/1ljw_in320.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/1o5g_ceProvider.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/1vsq_stem1.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/2cjr_j_vm0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/2cl6_encode.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/2fh1_osix0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/2k0q_decode.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/2uwq_2cpp0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/2w4u_-api0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/44te_in321.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/48ey_Pool0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/4e38_stem2.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/4gaq_stem0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/4saj_temWatcher.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/574h_Dns.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/5ffd_-api1.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/5vt9_j_vm1.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/5zbx_inRT0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/6t6f_utf8_util.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/764s_Mono0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/76a5_huffman.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/7ih4_stem0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/7n4w_in322.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/7ren_time0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/8e3x_tils0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/8e4r_j_vm2.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/8imf_inRT1.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/8st9_Evidence.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/8ypv_-api2.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/945s_ersistence.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/99x1_memory.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/9g8f_bit_reader.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/9ga0_dictionary.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/9kcj_bit_stream.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/a2d0_oryMapImpl.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/a5kn_osix4.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/a7ef_in323.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/amwh_UnityTls.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/ayam_ests1.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/azhy_stem0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/bap0_stem0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/bydg_tils1.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/c16t_eric1.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/c2ic_cketBridge.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/c4r9_data1.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/cmj5_Interop.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/cubb_erences_hq.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/de1t_tatic_dict.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/dhl4_ests2.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/dq41_onary_hash.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/dzzt_stem2.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/ec1w_iveMethods.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/ehoy_tils2.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/ekp5__OSX0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/fn2r_data2.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/g0vm_ests3.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/ggas_Properties.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/giac_stem3.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/gq2m_iveMethods.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/hiyj_nterlocked.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/i5jr_t_two_pass.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/iqis_tils0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/j00w_imeImports.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/jdfi_yPAL0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/jfpt_ThreadImpl.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/ji15_Semaphore.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/kh3h_cluster.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/l5v6_rity0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/ln3j_Context.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/lr8b_osix1.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/lscl_stem0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/lwsa_umin0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/m797_osixHelper.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/mi35_RealProxy.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/mjiu_histogram.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/n1ml_egen0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/nqgw_ningHelper.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/nwq1_state.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/nwuk_roid0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/o0bn_.Net0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/oaju_osix2.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/p285_sEmulation.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/pls4_teral_cost.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/r0kc_s_fragment.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/r4x0_stem0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/r560_i-debugger.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/rah6_-api3.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/rmjb_ests0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/rqv2_j_vm3.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/rttc_osix3.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/s79s_x_gc0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/ti6p_in324.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/tptq_Initialize.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/ts0y_data0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/tt5z_imeHelpers.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/u57k_references.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/u95k_j_vm4.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/ug5q_onServices.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/umpq_metablock.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/un8i_stem1.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/vcy4_eric2.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/vk3h_ngServices.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/vkal_x_os0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/xqyv_k_splitter.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/xsg3_j_vm5.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/y3k3_x_os1.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/yci8_stem0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/z72s_stem0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/z8uu_ting0.lump.o\" \"Library/Bee/artifacts/WebGL/il2cpp/master_WebGL_wasm/zf90_bit_cost.o\" \"Library/Bee/artifacts/WebGL/zlib/master_WebGL_wasm/17pz_inffast.o\" \"Library/Bee/artifacts/WebGL/zlib/master_WebGL_wasm/883p_infback.o\" \"Library/Bee/artifacts/WebGL/zlib/master_WebGL_wasm/89j7_zutil.o\" \"Library/Bee/artifacts/WebGL/zlib/master_WebGL_wasm/ap9b_inftrees.o\" \"Library/Bee/artifacts/WebGL/zlib/master_WebGL_wasm/axmm_uncompr.o\" \"Library/Bee/artifacts/WebGL/zlib/master_WebGL_wasm/d7fr_gzclose.o\" \"Library/Bee/artifacts/WebGL/zlib/master_WebGL_wasm/dvv5_trees.o\" \"Library/Bee/artifacts/WebGL/zlib/master_WebGL_wasm/gkgx_gzwrite.o\" \"Library/Bee/artifacts/WebGL/zlib/master_WebGL_wasm/lp3o_adler32.o\" \"Library/Bee/artifacts/WebGL/zlib/master_WebGL_wasm/mggh_gzlib.o\" \"Library/Bee/artifacts/WebGL/zlib/master_WebGL_wasm/n1z3_inflate.o\" \"Library/Bee/artifacts/WebGL/zlib/master_WebGL_wasm/nzd1_gzread.o\" \"Library/Bee/artifacts/WebGL/zlib/master_WebGL_wasm/rhvl_deflate.o\" \"Library/Bee/artifacts/WebGL/zlib/master_WebGL_wasm/z147_crc32.o\" \"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/PlaybackEngines/WebGLSupport/Variations/development/baselib.bc\"",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/rsp/5362588684057008505.rsp"
       ],
       "AllowUnwrittenOutputFiles": true,
-      "DebugActionIndex": 402
+      "DebugActionIndex": 415
     },
     {
       "Annotation": "Lib_WebGL_wasm Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/GameAssembly.bc",
@@ -15031,6 +15555,7 @@
         "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/7mbw_icMethods4.o",
         "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/8uvc_icMethods5.o",
         "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/taz0_icMethods6.o",
+        "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/eq2o_icMethods7.o",
         "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/4e2d_Generics.o",
         "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/n2i6_Generics1.o",
         "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/b1nt_Generics10.o",
@@ -15057,6 +15582,8 @@
         "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/9p6a_Generics3.o",
         "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/5x4n_Generics30.o",
         "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/qd8b_Generics31.o",
+        "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/btb0_Generics32.o",
+        "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/c1vg_Generics33.o",
         "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/u59y_Generics4.o",
         "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/vduf_Generics5.o",
         "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/gtx3_Generics6.o",
@@ -15102,9 +15629,17 @@
         "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/kn5g_ty.Runtime.o",
         "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/l3ft_ty.Runtime.o",
         "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/ur5p_ty.Runtime.o",
+        "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/3aof_ty.Runtime.o",
         "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/jn1b_ty.Runtime.o",
         "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/5301_ty.Runtime.o",
         "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/xdvx_gistration.o",
+        "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/cmlp_extMeshPro.o",
+        "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/zy3a_xtMeshPro1.o",
+        "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/ke7y_xtMeshPro2.o",
+        "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/lmrf_xtMeshPro3.o",
+        "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/61u3_xtMeshPro4.o",
+        "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/rhyr_xtMeshPro5.o",
+        "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/spi8_xtMeshPro6.o",
         "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/4os6_Management.o",
         "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/bdah_e.AIModule.o",
         "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/zg6z_tionModule.o",
@@ -15184,9 +15719,11 @@
         "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/sm78_me_CodeGen.o",
         "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/922d_me_CodeGen.o",
         "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/adun_me_CodeGen.o",
+        "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/f13r_me_CodeGen.o",
         "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/b221_me_CodeGen.o",
         "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/hmek_me_CodeGen.o",
         "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/xuj6_on_CodeGen.o",
+        "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/g68q_ro_CodeGen.o",
         "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/gn01_nt_CodeGen.o",
         "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/fhbp_le_CodeGen.o",
         "Library/Bee/artifacts/WebGL/GameAssembly/master_WebGL_wasm/f6j7_le_CodeGen.o",
@@ -15683,7 +16220,20 @@
         399,
         400,
         401,
-        402
+        402,
+        403,
+        404,
+        405,
+        406,
+        407,
+        408,
+        409,
+        410,
+        411,
+        412,
+        413,
+        414,
+        415
       ],
       "OverwriteOutputs": false,
       "FrontendResponseFiles": [
@@ -15709,7 +16259,7 @@
         }
       ],
       "CachingMode": "ByLeafInputs",
-      "DebugActionIndex": 403
+      "DebugActionIndex": 416
     },
     {
       "Annotation": "CopyFiles C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/build/GameAssembly.bc",
@@ -15721,12 +16271,12 @@
         "C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/build/GameAssembly.bc"
       ],
       "ToBuildDependencies": [
-        403
+        416
       ],
       "ToUseDependencies": [
-        405
+        418
       ],
-      "DebugActionIndex": 404
+      "DebugActionIndex": 417
     },
     {
       "Annotation": "CopyFiles C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/build/Data/Metadata/global-metadata.dat",
@@ -15741,9 +16291,9 @@
         3
       ],
       "ToUseDependencies": [
-        406
+        419
       ],
-      "DebugActionIndex": 405
+      "DebugActionIndex": 418
     },
     {
       "Annotation": "CopyFiles C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/build/Data/Resources/mscorlib.dll-resources.dat",
@@ -15757,7 +16307,7 @@
       "ToBuildDependencies": [
         3
       ],
-      "DebugActionIndex": 406
+      "DebugActionIndex": 419
     },
     {
       "Annotation": "WriteResponseFile Library/Bee/artifacts/rsp/8995565923215908413.rsp",
@@ -15768,7 +16318,7 @@
         "Library/Bee/artifacts/rsp/8995565923215908413.rsp"
       ],
       "AllowUnwrittenOutputFiles": true,
-      "DebugActionIndex": 407
+      "DebugActionIndex": 420
     },
     {
       "Annotation": "Link_WebGL_wasm Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.js (+wasm)",
@@ -15874,8 +16424,8 @@
       ],
       "ToBuildDependencies": [
         7,
-        404,
-        407
+        417,
+        420
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/rsp/8995565923215908413.rsp"
@@ -15900,7 +16450,7 @@
         }
       ],
       "CachingMode": "ByLeafInputs",
-      "DebugActionIndex": 408
+      "DebugActionIndex": 421
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/build.framework.js_mumr.info",
@@ -15911,7 +16461,7 @@
         "Library/Bee/artifacts/csharpactions/build.framework.js_mumr.info"
       ],
       "AllowUnwrittenOutputFiles": true,
-      "DebugActionIndex": 409
+      "DebugActionIndex": 422
     },
     {
       "Annotation": "FrameworkAssembler Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.framework.js",
@@ -15931,12 +16481,12 @@
         "Library/Bee/artifacts/WebGL/build/debug_WebGL_wasm/build.framework.js"
       ],
       "ToBuildDependencies": [
-        408,
-        409
+        421,
+        422
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 410
+      "DebugActionIndex": 423
     },
     {
       "Annotation": "CopyFiles build/Build/build.framework.js",
@@ -15948,9 +16498,9 @@
         "build/Build/build.framework.js"
       ],
       "ToBuildDependencies": [
-        410
+        423
       ],
-      "DebugActionIndex": 411
+      "DebugActionIndex": 424
     },
     {
       "Annotation": "CopyFiles build/Build/build.wasm",
@@ -15962,9 +16512,9 @@
         "build/Build/build.wasm"
       ],
       "ToBuildDependencies": [
-        408
+        421
       ],
-      "DebugActionIndex": 412
+      "DebugActionIndex": 425
     },
     {
       "Annotation": "CopyFiles Temp/EditorBuildOutput/UnityLinkerToEditorData.json",
@@ -15978,7 +16528,7 @@
       "ToBuildDependencies": [
         2
       ],
-      "DebugActionIndex": 413
+      "DebugActionIndex": 426
     },
     {
       "Annotation": "CopyFiles Temp/EditorBuildOutput/MethodMap.tsv",
@@ -15992,18 +16542,18 @@
       "ToBuildDependencies": [
         3
       ],
-      "DebugActionIndex": 414
+      "DebugActionIndex": 427
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/webgl.data_qnm2.info",
       "ActionType": "WriteTextFile",
-      "WriteTextFilePayload": "{\"System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]\":{\"Library/PlayerDataCache/WebGL/Data/boot.config\":\"boot.config\",\"Library/PlayerDataCache/WebGL/Data/data.unity3d\":\"data.unity3d\",\"Library/PlayerDataCache/WebGL/Data/RuntimeInitializeOnLoads.json\":\"RuntimeInitializeOnLoads.json\",\"Library/PlayerDataCache/WebGL/Data/ScriptingAssemblies.json\":\"ScriptingAssemblies.json\",\"Library/PlayerDataCache/WebGL/Data/sharedassets0.resource\":\"sharedassets0.resource\",\"Temp/StagingArea/Data/UnitySubsystems/__Internal/UnitySubsystemsManifest.json\":\"UnitySubsystems/__Internal/UnitySubsystemsManifest.json\",\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/data/Metadata/global-metadata.dat\":\"Il2CppData/Metadata/global-metadata.dat\",\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/data/unity_default_resources\":\"Resources/unity_default_resources\",\"Temp/StagingArea/Data/Resources/unity_builtin_extra\":\"Data/Resources/unity_builtin_extra\"},\"Bee.TundraBackend.CSharpActionInvocationInformation\":{\"typeFullName\":\"WebGLPlayerBuildProgram.DataAssembler\",\"methodName\":\"Run\",\"assemblyLocation\":\"C:\\\\Program Files\\\\Unity\\\\Hub\\\\Editor\\\\2021.3.9f1\\\\Editor\\\\Data\\\\PlaybackEngines\\\\WebGLSupport\\\\WebGLPlayerBuildProgram.exe\",\"targets\":[\"Library/Bee/artifacts/WebGL/webgl.data\"],\"inputs\":[\"Library/PlayerDataCache/WebGL/Data/boot.config\",\"Library/PlayerDataCache/WebGL/Data/data.unity3d\",\"Library/PlayerDataCache/WebGL/Data/RuntimeInitializeOnLoads.json\",\"Library/PlayerDataCache/WebGL/Data/ScriptingAssemblies.json\",\"Library/PlayerDataCache/WebGL/Data/sharedassets0.resource\",\"Temp/StagingArea/Data/UnitySubsystems/__Internal/UnitySubsystemsManifest.json\",\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/data/Metadata/global-metadata.dat\",\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/data/unity_default_resources\",\"Temp/StagingArea/Data/Resources/unity_builtin_extra\"],\"targetDirectories\":[]}}",
+      "WriteTextFilePayload": "{\"System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]\":{\"Library/PlayerDataCache/WebGL/Data/boot.config\":\"boot.config\",\"Library/PlayerDataCache/WebGL/Data/data.unity3d\":\"data.unity3d\",\"Library/PlayerDataCache/WebGL/Data/RuntimeInitializeOnLoads.json\":\"RuntimeInitializeOnLoads.json\",\"Library/PlayerDataCache/WebGL/Data/ScriptingAssemblies.json\":\"ScriptingAssemblies.json\",\"Temp/StagingArea/Data/UnitySubsystems/__Internal/UnitySubsystemsManifest.json\":\"UnitySubsystems/__Internal/UnitySubsystemsManifest.json\",\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/data/Metadata/global-metadata.dat\":\"Il2CppData/Metadata/global-metadata.dat\",\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/data/unity_default_resources\":\"Resources/unity_default_resources\",\"Temp/StagingArea/Data/Resources/unity_builtin_extra\":\"Data/Resources/unity_builtin_extra\"},\"Bee.TundraBackend.CSharpActionInvocationInformation\":{\"typeFullName\":\"WebGLPlayerBuildProgram.DataAssembler\",\"methodName\":\"Run\",\"assemblyLocation\":\"C:\\\\Program Files\\\\Unity\\\\Hub\\\\Editor\\\\2021.3.9f1\\\\Editor\\\\Data\\\\PlaybackEngines\\\\WebGLSupport\\\\WebGLPlayerBuildProgram.exe\",\"targets\":[\"Library/Bee/artifacts/WebGL/webgl.data\"],\"inputs\":[\"Library/PlayerDataCache/WebGL/Data/boot.config\",\"Library/PlayerDataCache/WebGL/Data/data.unity3d\",\"Library/PlayerDataCache/WebGL/Data/RuntimeInitializeOnLoads.json\",\"Library/PlayerDataCache/WebGL/Data/ScriptingAssemblies.json\",\"Temp/StagingArea/Data/UnitySubsystems/__Internal/UnitySubsystemsManifest.json\",\"C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/data/Metadata/global-metadata.dat\",\"C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/data/unity_default_resources\",\"Temp/StagingArea/Data/Resources/unity_builtin_extra\"],\"targetDirectories\":[]}}",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/csharpactions/webgl.data_qnm2.info"
       ],
       "AllowUnwrittenOutputFiles": true,
-      "DebugActionIndex": 415
+      "DebugActionIndex": 428
     },
     {
       "Annotation": "Assemble WebGL Data Library/Bee/artifacts/WebGL/webgl.data",
@@ -16013,7 +16563,6 @@
         "Library/PlayerDataCache/WebGL/Data/data.unity3d",
         "Library/PlayerDataCache/WebGL/Data/RuntimeInitializeOnLoads.json",
         "Library/PlayerDataCache/WebGL/Data/ScriptingAssemblies.json",
-        "Library/PlayerDataCache/WebGL/Data/sharedassets0.resource",
         "Temp/StagingArea/Data/UnitySubsystems/__Internal/UnitySubsystemsManifest.json",
         "C:/Users/wanxu/Documents/SIT-DigiPen/Year 3 Sem 2/CSD3120 Virtual Reality/hello-xr/Library/Bee/artifacts/WebGL/il2cppOutput/data/Metadata/global-metadata.dat",
         "C:/Program Files/Unity/Hub/Editor/2021.3.9f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/data/unity_default_resources",
@@ -16031,11 +16580,11 @@
       ],
       "ToBuildDependencies": [
         3,
-        415
+        428
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 416
+      "DebugActionIndex": 429
     },
     {
       "Annotation": "CopyFiles build/Build/build.data",
@@ -16047,9 +16596,9 @@
         "build/Build/build.data"
       ],
       "ToBuildDependencies": [
-        416
+        429
       ],
-      "DebugActionIndex": 417
+      "DebugActionIndex": 430
     },
     {
       "Annotation": "PreprocessJS build/Build/build.loader.js",
@@ -16061,7 +16610,7 @@
         "build/Build/build.loader.js"
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 418
+      "DebugActionIndex": 431
     },
     {
       "Annotation": "PreprocessJS build/index.html",
@@ -16073,7 +16622,7 @@
         "build/index.html"
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 419
+      "DebugActionIndex": 432
     },
     {
       "Annotation": "CopyFiles build/TemplateData/favicon.ico",
@@ -16084,7 +16633,7 @@
       "Outputs": [
         "build/TemplateData/favicon.ico"
       ],
-      "DebugActionIndex": 420
+      "DebugActionIndex": 433
     },
     {
       "Annotation": "CopyFiles build/TemplateData/fullscreen-button.png",
@@ -16095,7 +16644,7 @@
       "Outputs": [
         "build/TemplateData/fullscreen-button.png"
       ],
-      "DebugActionIndex": 421
+      "DebugActionIndex": 434
     },
     {
       "Annotation": "CopyFiles build/TemplateData/progress-bar-empty-dark.png",
@@ -16106,7 +16655,7 @@
       "Outputs": [
         "build/TemplateData/progress-bar-empty-dark.png"
       ],
-      "DebugActionIndex": 422
+      "DebugActionIndex": 435
     },
     {
       "Annotation": "CopyFiles build/TemplateData/progress-bar-empty-light.png",
@@ -16117,7 +16666,7 @@
       "Outputs": [
         "build/TemplateData/progress-bar-empty-light.png"
       ],
-      "DebugActionIndex": 423
+      "DebugActionIndex": 436
     },
     {
       "Annotation": "CopyFiles build/TemplateData/progress-bar-full-dark.png",
@@ -16128,7 +16677,7 @@
       "Outputs": [
         "build/TemplateData/progress-bar-full-dark.png"
       ],
-      "DebugActionIndex": 424
+      "DebugActionIndex": 437
     },
     {
       "Annotation": "CopyFiles build/TemplateData/progress-bar-full-light.png",
@@ -16139,7 +16688,7 @@
       "Outputs": [
         "build/TemplateData/progress-bar-full-light.png"
       ],
-      "DebugActionIndex": 425
+      "DebugActionIndex": 438
     },
     {
       "Annotation": "PreprocessJS build/TemplateData/style.css",
@@ -16151,7 +16700,7 @@
         "build/TemplateData/style.css"
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 426
+      "DebugActionIndex": 439
     },
     {
       "Annotation": "CopyFiles build/TemplateData/unity-logo-dark.png",
@@ -16162,7 +16711,7 @@
       "Outputs": [
         "build/TemplateData/unity-logo-dark.png"
       ],
-      "DebugActionIndex": 427
+      "DebugActionIndex": 440
     },
     {
       "Annotation": "CopyFiles build/TemplateData/unity-logo-light.png",
@@ -16173,7 +16722,7 @@
       "Outputs": [
         "build/TemplateData/unity-logo-light.png"
       ],
-      "DebugActionIndex": 428
+      "DebugActionIndex": 441
     },
     {
       "Annotation": "CopyFiles build/TemplateData/webgl-logo.png",
@@ -16184,7 +16733,7 @@
       "Outputs": [
         "build/TemplateData/webgl-logo.png"
       ],
-      "DebugActionIndex": 429
+      "DebugActionIndex": 442
     },
     {
       "Annotation": "Player",
@@ -16194,27 +16743,27 @@
       "ToBuildDependencies": [
         1,
         2,
-        404,
-        411,
-        412,
-        413,
-        414,
         417,
-        418,
-        419,
-        420,
-        421,
-        422,
-        423,
         424,
         425,
         426,
         427,
-        428,
-        429
+        430,
+        431,
+        432,
+        433,
+        434,
+        435,
+        436,
+        437,
+        438,
+        439,
+        440,
+        441,
+        442
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 430
+      "DebugActionIndex": 443
     }
   ],
   "FileSignatures": [
@@ -16583,7 +17132,7 @@
   ],
         "NamedNodes": {
           "all_tundra_nodes": 0,
-          "Player": 430
+          "Player": 443
         }
 ,  "DefaultNodes": [
     0

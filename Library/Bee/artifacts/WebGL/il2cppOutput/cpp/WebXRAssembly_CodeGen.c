@@ -41,14 +41,14 @@ static Il2CppMethodPointer s_methodPointers[8] =
 };
 static const int32_t s_InvokerIndices[8] = 
 {
-	3563,
-	3563,
-	3563,
-	3563,
-	3563,
-	3563,
-	3563,
-	3563,
+	3831,
+	3831,
+	3831,
+	3831,
+	3831,
+	3831,
+	3831,
+	3831,
 };
 IL2CPP_EXTERN_C const Il2CppCodeGenModule g_WebXRAssembly_CodeGenModule;
 const Il2CppCodeGenModule g_WebXRAssembly_CodeGenModule = 
